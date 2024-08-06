@@ -13,6 +13,8 @@
 ==== Week 1
 //tag::Week-1[]
 //tag::Weekly-Overview-1[]
+July 22-26
+
 There is no "Launch Work."
 //end::Weekly-Overview-1[]
 //end::Week-1[]
@@ -20,6 +22,8 @@ There is no "Launch Work."
 ==== Week 2
 //tag::Week-2
 //tag::Weekly-Overview-2[]
+July 29-Aug 2
+
 There is no "Launch Work."
 //end::Weekly-Overview-2[]
 //end::Week-2[]
@@ -29,7 +33,9 @@ There is no "Launch Work."
 Chapters 1-7
 
 //tag::Weekly-Overview-3[]
+Aug 5-9
 
+We will start learning the Hebrew aphabet as well as some words.
 
 //end::Weekly-Overview-3[]
 //tag::Assignment-001[]
@@ -39,15 +45,29 @@ No work
 //end::Assignment-001[]
 //tag::Assignment-002[]
 ===== Tuesday, August 6, 2024
-We will cover the sysabus and discuss homework for the week.
+We covered the syllabus and discussed homework for the week.
+
+We watched the first Aleph with Beth video.
+
+We covered aleph through vav.
 
 //end::Assignment-002[]
 //tag::Assignment-003[]
 ===== Wednesday, August 7, 2024
+
+Review the aleph through vav.
  
+Watch https://video.link/w/y640-FIpxQs
+
+Watch https://video.link/w/l7G9xJ9dXXA
+
 //end::Assignment-003[]
 //tag::Assignment-004[]
 ===== Thursday, August 8, 2024
+
+Watch https://video.link/w/l7G9xJ9dXXA
+
+Watch https://video.link/w/5guHp9NaPRE
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
