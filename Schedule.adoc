@@ -468,7 +468,7 @@ We will learn about construct forms.
 //end::Weekly-Overview-6[]
 //tag::Assignment-016[]
 ===== Monday, August 26, 2024
-Review the lesson 4 vocabulary 
+Review the lesson 4 vocabulary. https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
 
 Watch {lesson4video}
 
@@ -484,6 +484,8 @@ We will go over the lesson 5 vocabulary. https://drive.google.com/file/d/1RYIx2s
 //end::Assignment-017[]
 //tag::Assignment-018[]
 ===== Wednesday, August 28, 2024
+Review Vocabulary from chapters 4-5. https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
+
 Watch {lesson5video}
 
 Watch {lesson5bvideo}
@@ -491,6 +493,8 @@ Watch {lesson5bvideo}
 //end::Assignment-018[]
 //tag::Assignment-019[]
 ===== Thursday, August 29, 2024
+Review Vocabulary from chapters 4-5. https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
+
 Watch {lesson5video}
 
 Watch {lesson5bvideo}
