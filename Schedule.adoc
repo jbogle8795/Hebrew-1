@@ -7,6 +7,232 @@
 :sectnums:
 :sectnumlevels: 2
 
+:lesson1video: Lesson 1 https://drive.google.com/file/d/1RS8AATTHHyMtNJBVUBb8KBRNKwYUnvFF/view?usp=sharing[1080] https://drive.google.com/file/d/1P19C0n9WOwClvIL6FHoGER0F5FbP0pnK/view?usp=sharing[480]
+:lesson2video: Lesson 2 https://drive.google.com/file/d/1QRQJBYO_GauTbJNi_lWgzeLUGfJi5xU2/view?usp=sharing[1080] https://drive.google.com/file/d/1P_W2MCK-uA9_DpcAaZJHKDzi2-ymcK7q/view?usp=sharing[480]
+:lesson1-2video: Lesson 1-2 Review https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=sharing[1080] https://drive.google.com/file/d/1P3TPocK-y-WDWBRvGlQlgdfu5EsdAJXm/view?usp=sharing[480]
+:lesson3video: Lesson 3 https://drive.google.com/file/d/1Qt6RWaNvJM83ES5HjP1pEeoLGf40Hj58/view?usp=sharing[1080] https://drive.google.com/file/d/1PE3VQ54d9oF8g8whSCH2c1YE09asvw0s/view?usp=sharing[480]
+:lesson3bvideo: Lesson 3b https://drive.google.com/file/d/1Qn7EYqm1dqUpPaadxaxG4hPhXjhJCkwD/view?usp=sharing[1080] https://drive.google.com/file/d/1PqfrF0d4CkFKfJibze0E8OiKmdrxjzgj/view?usp=sharing[480]
+:lesson4video: Lesson 4 https://drive.google.com/file/d/1QisciQuxo6dKKgInMal_IM1PZtR-QK4Z/view?usp=sharing[1080] https://drive.google.com/file/d/1PycSPT6J3WeFoV0JVBlfAkzX1t0Rbbzw/view?usp=sharing[480]
+:lesson4bvideo: Lesson 4b https://drive.google.com/file/d/1QwsyL1erOMhI4yiCsqdyQM6ZjIYYWljG/view?usp=sharing[1080] https://drive.google.com/file/d/1PZrQwT5uZQxy61O6kjpwXAwKP6FvIXiZ/view?usp=sharing[480]
+:lesson3-4video: Lesson 3-4 Review https://drive.google.com/file/d/1QIR8GJbEWcYkkbc8Y7zShy5KfsIq9oiU/view?usp=sharing[1080] https://drive.google.com/file/d/1Ppkg8ZEcCDpNdPW3LHEpljPXWa0F3ds2/view?usp=sharing[480]
+:lesson5video: Lesson 5 https://drive.google.com/file/d/1QXTn5TZrP6fSmXAzmwhIxzIw816LF6tq/view?usp=sharing[1080] https://drive.google.com/file/d/1PRJnnV9qYsVKyAteqe0Nw-G7FrEVDGul/view?usp=sharing[480]
+:lesson5bvideo: Lesson 5b https://drive.google.com/file/d/1RG5wWsC3TV6DVWy6mS_iF71yL7skDs5k/view?usp=sharing[1080] https://drive.google.com/file/d/1PXnnmPAmCAhD4utvBT_kGp-38_YfpyEH/view?usp=sharing[480]
+:lesson6video: Lesson 6 https://drive.google.com/file/d/1Qt0dOWpBxRNyZ5utflbvZVG03OXAVDLG/view?usp=sharing[1080] https://drive.google.com/file/d/1P9ND4fa-DidkxfDxyMIqbFdvNa74zUfT/view?usp=sharing[480]
+:lesson5-6video: Lesson 5-6 Review https://drive.google.com/file/d/1Qd__RijEKfyVKyohq_CVnAxglTSiU-by/view?usp=sharing[1080] https://drive.google.com/file/d/1PuQeccGdp9UO8Zbr34m8f655E42IKzdc/view?usp=sharing[480]
+:lesson7video: Lesson 7 https://drive.google.com/file/d/1QUjYn2VwW8djGGC4k54fMPAD6ghboc4S/view?usp=sharing[1080] https://drive.google.com/file/d/1PGFSuXjMOSf-mU7PJnw2PhZJXcPMGIDH/view?usp=sharing[480]
+:lesson8video: Lesson 8 https://drive.google.com/file/d/1QIc9bTujhbeuwklQNf9Hq8TOQ2JdlkWh/view?usp=sharing[1080]https://drive.google.com/file/d/1P8veT68BrgmFQhMSBiDNIIVzFjSDX5lO/view?usp=sharing[480]
+:lesson8bvideo: Lesson 8b https://drive.google.com/file/d/1QUw_iDLf7l_7Wlm-iGUYvXMx7ki0pEUa/view?usp=sharing[1080]https://drive.google.com/file/d/1Q4iCnA4nMnDVtC3fFkq-N3GJLGFU0mqK/view?usp=sharing[480]
+:lesson7-8video: Lesson 7-8 Review https://drive.google.com/file/d/1R2RkvYVAaxpFolufcm2ETvR-Yfja-tl2/view?usp=sharing[1080]https://drive.google.com/file/d/1P0fG2DTEe7AxCN8pKASy0bXM0zdO2bCD/view?usp=sharing[480]
+:lesson9video: Lesson 9 https://drive.google.com/file/d/1QP-wkIufZGq73iTSToa2jaMqfh-K5MRI/view?usp=sharing[1080] https://drive.google.com/file/d/1P8Vh6UFYnZ87In3NQkIyeMcZ20T2lR6g/view?usp=sharing[480]
+:lesson10video: Lesson 10 https://drive.google.com/file/d/1RCa81hpw8hUKw7yLbgzgL4MIgIpQ8PC-/view?usp=sharing[1080]https://drive.google.com/file/d/1PS-dQ4Z4CJ6LobbgfRqduoq-ShWB5bP6/view?usp=sharing[480]
+:lesson9-10video: Lesson 9-10 Review https://drive.google.com/file/d/1QXR_P7OlZnaZJkH7s6DURAJY0jn9NlBI/view?usp=sharing[1080] https://drive.google.com/file/d/1PMxRERa1UOF5abwAGSrAUJUkXdr-RXf6/view?usp=sharing[480]
+:lesson11video: Lesson 11 https://drive.google.com/file/d/1QURkMvKIlBQ8O8t5nNMqZFIGhXlyuXES/view?usp=sharing[1080]https://drive.google.com/file/d/1PgRhrngl2Z3N18Hv88r2xeYFUjPVPaJ2/view?usp=sharing[480]
+:lesson11bvideo: Lesson 11b https://drive.google.com/file/d/1QSFvId-TwiqOeMmoS2s0B65Iv6JqRzDb/view?usp=sharing[1080]https://drive.google.com/file/d/1PrkfhwLmIvk2W7a9D7Uml3ZMzJ5iOBSv/view?usp=sharing[480]
+:lesson12video: Lesson 12 https://drive.google.com/file/d/1QtfjxHhelejwCEVUJCwDwzb0BTg1nkcN/view?usp=sharing[1080]https://drive.google.com/file/d/1PijWja5fP4XUmo5v1I2gTd9QHx_QFMgT/view?usp=sharing[480]
+:lesson12bvideo: Lesson 12b https://drive.google.com/file/d/1RGpBcho3OEgDDjtVvMRp9rW2le1dj0hQ/view?usp=sharing[1080]https://drive.google.com/file/d/1PTPMrX-ezv55jQgBQNorykhAp5yH4qOC/view?usp=sharing[480]
+:lesson11-12video: Lesson 11-12 Review https://drive.google.com/file/d/1QnGxrn24-gN4xNqfEJni2AyFTcbqw3zF/view?usp=sharing[1080] https://drive.google.com/file/d/1PwERPaz_4qdHt1VwXtPaZ4ICHxiwZlcJ/view?usp=sharing[480]
+:lesson13video: Lesson 13 https://drive.google.com/file/d/1QkM5uWVlRYBCrME6laDyZiPw9zTIKicz/view?usp=sharing[1080]https://drive.google.com/file/d/1PxUuv0fNwqimtkNzEZgjOTsUyqIfKnn6/view?usp=sharing[480]
+:lesson14video: Lesson 14 https://drive.google.com/file/d/1QG38F9ed6EDl1mPbODzRbZ5PM-5Tni95/view?usp=sharing[1080]https://drive.google.com/file/d/1PNrzjcWrRPwHN_xQmhf7w4j0qiwrV_e8/view?usp=sharing[480]
+:lesson13-14video: Lesson 13-14 https://drive.google.com/file/d/1QqJLMt6VVVB92s9YVoFBWBpmJhPPRkc-/view?usp=sharing[1080] https://drive.google.com/file/d/1Px0-8mY7BkV3HNu-2lmChGYl38ytPevK/view?usp=sharing[480]
+:lesson15video: Lesson 15 https://drive.google.com/file/d/1RSI1HL75cawIEVsZH8RpLsH39fIsi2xZ/view?usp=sharing[1080]https://drive.google.com/file/d/1PBK4NaoHEvgK5GwPs7BYh8HMburOXquR/view?usp=sharing[480]
+:lesson16video: Lesson 16 https://drive.google.com/file/d/1R-96eHKxPDPeCeQ2NHcdIP40l7pUakyQ/view?usp=sharing[1080] https://drive.google.com/file/d/1Ox1qVpkHUr2fWdUpFftpOylghPgT41qR/view?usp=sharing[480]
+:lesson15-16video: Lesson 15-16 Review https://drive.google.com/file/d/1QDpN-72yg-NtaIdbDjiR-rvgj3N9Zv3z/view?usp=sharing[1080] https://drive.google.com/file/d/1PLVC80TQg0K_l6tvXllpzAQnbWE8Ny8f/view?usp=sharing[480]
+:lesson17video: Lesson 17 https://drive.google.com/file/d/1QQgrt8XZw7dbDQhwtG6rjlcIRkmoF4an/view?usp=sharing[1080] https://drive.google.com/file/d/1P-7e598tloXAyBky-mHMQO12lp4PdRxP/view?usp=sharing[480]
+:lesson18video: Lesson 18 https://drive.google.com/file/d/1QLcT84J8-LTFOKzOqiRIfX_dk89jW5Xc/view?usp=sharing[1080] https://drive.google.com/file/d/1Q2R0ZwGJoA-Y69oyFH45lcqVdyTxq9no/view?usp=sharing[480]
+:lesson17-18video: Lesson 17-18 Reivew https://drive.google.com/file/d/1QW_m2FqeoS6lZJ0n4jSid21TdUzkPxMv/view?usp=sharing[1080] https://drive.google.com/file/d/1P3P_q-DBgFRinyaxmwXqLOMVzMIFe2Cl/view?usp=sharing[480]
+:lesson19video: Lesson 19 https://drive.google.com/file/d/1RC5EoM7MJb4j56KjWI6EO0LKaNyLAixT/view?usp=sharing[1080] https://drive.google.com/file/d/1PRcdF5heUJBKhIY0LrBQj37fIuGgVUOc/view?usp=sharing[480]
+:alphetbetvideo: Alphabet Video https://drive.google.com/file/d/1QR9yAIeZLsNw2rAz_vPEqlNbRnbarhcY/view?usp=sharing[1080] https://drive.google.com/file/d/1Q5hvBmIGim7u2ESPBISaL9U_94ZRZ0Iq/view?usp=sharing[480]
+
+== starting with 037
+https://drive.google.com/file/d/1QV_Cy18NYrYBmqQDCTaMyxi89WUsmH2e/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QZPGk02wMbDwwxRXuQdck947xTk1q2pC/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RIULPtac3bMb5YQzwrfsyn9V596A8gor/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QZVEo0zDoe_f6NvVugbs2S9Q7weYQWqz/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QXwp39y6J51Lg6DQ6aVlZ5Gj0U-ld-7_/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RCopf8AKUsb1XU-eCFdBNzgdIaqbrw1t/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QqBqPYZK5E7WUaxSC666yKqmaxR7QscG/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QY_qZZodypihNf_fQW1j2APtT9BfEOw9/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QHbNaQw51KlTJGMRu0xcCEb7pOAO1oOj/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QxeY82IoG7lgMfBBacI0QwPL93p8NQFY/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RKa7nKoTwOB1Hb5zT5MtbYKrVOJgNuUu/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R9vt4RE69FuNuMZwq8YpF1COz8_wMa-M/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R6mb02iGozvmUsBoOVTnQiWKX4cCBc0F/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QM7VB_Tk2MOMzAXw1iK9jcpsj9r2gKSe/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RDlND51n0iypCR4w8ltb1eL-h02dRI50/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RKXSIHZEKKQTUR-x5HFpo9zqTNAFVwGm/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QRdAlQJk2driAP15-qDraOPsKySp8XGS/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QcnxsVYR7qLlx5T0cLlFUBu_3tS0icDR/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RCdZHktVsLYWSvWVDhOwJG7IODzDgOwN/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QoVGYIi94ToP3BMpHoudyl_m7L4aXciq/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QwKNnaZ5Gsjr0OY85dLyuS-342bTl7pg/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QQUkG43p40nDf2XyJytR2L1R97H1jjgJ/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QRqsaa1xKzEgO3wDCHqzh4VJZilgYNIA/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RShIPWzewoo67_y7_SE4W0d7ruvDC9gB/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R4PEkfpvuzzygamqWx39ZgYKBd56VR5E/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RO3N1GLVKjaobR0Q1p7ekNb41XwRjQol/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QWJzfdUxdARpXfs92ewRO0xXXdbx3Ff8/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QvzmL9L7H1Lr6jkjpa__R4l4sGoyhBKL/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QgmVIe23jGPONvCAep6l9qyGPIGI79f8/view?usp=sharing[1080]
+https://drive.google.com/file/d/1ROmKNpcrOa6Y8Uw-ny2m0SvJTKeZfc3y/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QH4D2CG7waGUZrA3fBgfnOvcIl2vk3JI/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QMt9DOf3wLMk3OGd9d_1JhzrBZJLmaMo/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QstMsoj4HeDaFCVvvjhjp8QWf6TTQZuI/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QueP18rpPk1h2WI9rBhKRWs0u6ggY-B_/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Quw0o6UYsXgmCSTRBppt-3eCimg1ZFsg/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qp2zasNjUmN3ZyB7ukJqj-MNgwtWsbEs/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QWk14dilYhu3RKi7XD6U4Sa7YIlBbKvw/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QFqevw-9Sbr2tQMrzkIhkMLA1gQFPKS1/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RC049fP_4PzzS2QJwh0Aijz5AufZBa-Z/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QwJ0vWWG-qf74M6FdKMQ2xfGZ-j-srPj/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QoFH7JeDV5HuBAH9ELIw_y_DAs-NRtpj/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QjY4klGUsQds1FuKJ8A3PL6nMhO-KPTL/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QV_rKy4gyJiY_GO4QgEBFDFV2ixq43Co/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QunBTKT0RTpT3IAlYngilQu_FYTWYdF8/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RSOVsk4TVcEA714_vxH4YVART5qmLSWR/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RPtijA58dy5UC0AEgGZaw6zWHTqT6dxM/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qi42GBCBX89rEZDuQePLnvU3adqTz4sp/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QRtbWepaGi7CZDCWqNcHkSCvTwvPJi0z/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RAJOJEz5Z4bUweeVQm5UPSvys_WmA1UM/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qdpey2vmWOvGveJ03DhoN1XYRaI1MaDG/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QKM8_dNwiBKPl4un39Zwy_BrmL5c9Ug9/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RSUgRhujgwumBMIuf9Xktzhi4BHtglW9/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QLdKyHaK5gOeBLSii3waWsFnsa0vFZ94/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QcKzIXozC0GXZ6cqNCigGONpZAD24VjR/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QVvoRyxCj23LnjXtEfhhUmRHIUcpOFu0/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qn05OOMSFK2qO4Klfdt46wANzcPDG39Q/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QZJtRzOUc2sMks15T9vXRxAI7qwUrOs-/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QivDed4C-rIcFy6OzcgSN2Uohgh7kGMl/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QBy08y586Z7nne9kDRV-gEktHd-uYqkj/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QcwXqI6iG-K7tF3Q7PVDDPBxGDHh8ZS4/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qseb66k3gybucY9042N8DugCtL9yIpGW/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QxKQD4HglnVKSIAmgWHFj7v53oWoPXGl/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R3BoiKtjGdrPJgVPMWC7t4DvKAhFJCyD/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Q9OMQ7udB-UUvwW1DUh44cBT3lkwaUt2/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qp7GR8Vw_T769P8tzKMg3g1lUn3gFefY/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RFL9YaVkM-Wp2AguFaa6Sp9xhQnbCOr1/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QelCCp95doEa1JlZc7LwqFYgqeAhlkML/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RLU3510KnX_OAOnqh5Fkbdnnb3-Q1aQk/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QcE6uqPWW4lW-omJi82Pn1iJkoD6qqnb/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QZuiiYBDLGVef3p3CeQ5uzup-2pyJwRd/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QDFZyWY74sKp28Y2dbJYSQ8na3T9t2tA/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QHmvvfflV2FoPMgK_Urxy0j49qOzQKTm/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R8AkkcgQZzdcWo9_fmiGUM6EjufMqNnC/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QrjYjCQbnSRqHhVjWDRp7X70-MxlYJDM/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R6IVdnSEbBVepLHG0CZIWbvM6bjR-v0T/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qar9gRpKWZyyGDNoBFmIqspKreSmoBUT/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QI4bdjxyKCwrNnC3a5KsV-cBIG7UKU9n/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RBgm-zIWVDgLXlugyCfQvMzwRu4PrH3O/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QR2Jq0QvucxkxsmOIPIIylViKc67UMaB/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QQnXMiIQiFaETtU2znADRN6wcMai6aPy/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RL_vBIkbDM89Xho7sECgYcItO0qXIBhw/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R38p-5nJZc2iyi_76M7nb8lkc4StY8Xt/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RTGcOcR1_6CwlKb4vCg029W0KlaBBmll/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QIVYMHubV5HdiLWHpmhMkFG3HPehch-F/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qhd5PAhvRBSEobem0eaDJV4TEctl5_1V/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QBkawkobBkjzeCJrmvj65EMghPake_6v/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QPEcR-uoWSU5-e4Mh3r2ZlHPZgvnAnDX/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RAl4QZW7sB4TWhBDAwBkAcU6Nq3hgDDT/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QjetH0Orj1VCg6lBs_RPXu4r-Gs-k-rI/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qa9TUqdHdF0d38qU00CL0bw1zr5SIfbH/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RIMKE8j4F_-z7ZDgq1-isv3urGsWZ4qy/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QPOKhFbi7UWK1wEOkMfEZxTNi6cjm-Au/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RH6JpKQp6pVuNHDzJG4CAVfdJsDJm2gN/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QbQ2uAWRfzakT8fqzwwCOET85z5586zk/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QmpTBF6vFF2tVUzUiIwfO_mv-ZvxySce/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qr1MPUePmFGiKkbgstCcDns47jesu4Xo/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RJJ7aYEpbVE3lKodqBk6UrxkNu3dUHU7/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QEVnWfoGtoQ29NsxQBcmXKxxvhmwoRFb/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RBtMfowpDrIpBiYdimuGw10ILQQGRSkA/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QERNgZ5goDcUoL3RZ5ZTW97nGbPqTS8z/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R2DT_a5CuNgGfzV3zsXpsqESfxST56lb/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RMWv2W8k4wPr0UOjclbsrxzCakyL9luT/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R2YDODNETo881rD_DkmgToedXTrGr4b9/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RCSNXAyvx5ZZN8rIDyhfJoA5Sfze92Ci/view?usp=sharing[1080]
+https://drive.google.com/file/d/1ROpVFg-zRpd5cpAKilDGhTnfv302VjCt/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QI_XH6lg8ap_62JDMxqUkDdy_lKTqK5J/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RD7dkXjZ-DYfetnFcSC5eVapCVy0GPBa/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R0GXnRFpvdGhh7FQBOban2_YoQ50Itn1/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RIEbNrZGJ6ZuEypWqkpgEKyoBLMteDKP/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QwYqaWvxneEQUQb5JjP1QUb9tpvDPOs3/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QE-adFo9lFWbVFUkcI4ePsrc1TlUP5qt/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qs5uRE-Kl8LOe1w7W-iNZeuncoUUeQoy/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QhMMcZXllNcXjs7SD5BQK_Xv9S9G6oui/view?usp=sharing[1080]
+https://drive.google.com/file/d/1ROkrBt6GoOCtUz3Qf_sn7MBpYCiDDga0/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QCocsseC0QcCBWfFqk2Z4NbS0q6G_GB1/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QX6XZe2eOC1CdtpqRmugz4qrNJQigqEq/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QAObET2nDxq87GQAJsPaWWH4_nt0IUmR/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RHNJRVbRUxqx7nwQHjM3JB_I02Caz9gp/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RE-NJlSTOF0TjiZK-MuCGLBWf_rXoGZZ/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RLimOXfqgAqk2yFP5q5XqHKHSaNpoh5N/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RRe5EsSnnulSgn2amAUTg97Eb6-vB4Zn/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QkaP4I4VjlrQKDOSjnL4Mq18JkJFDBDU/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QQwFJqsrT74C3DFDgd3r5Daq_ZhnP3s_/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RF-f5nsmPe3SY8n-EZ4akThiZvhOcWIu/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RHWYUvIWmFqx01FvhaUlfsDxfs96YSyt/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R7gm4QD4eULkMbfWdxEQU2bFpHb_Dvkt/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QhRHEUljJ57DBx-EF2Jg_Zv7MbF3zr8k/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RAB102n3lLRsN2h2unFuf93ek_ot7UBY/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QssT8aIeqto7A3MdTzl4KPVHynwZy2ZX/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QrYfYrfZGsKarSfwhXUznrOGpvRSUc3K/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QeayTPOmDQZ1AuEeZX4i8VazMVut2NPI/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qw1WFpPXyPl8fSzp9vkfwdsEMYlSQaOu/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QQUA0vooCwNZ12GfK9HvweA_O-EfEyLf/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RQUqRs-2BB1zgh6t_wJVyN-E9NIfhQEB/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R0p8S8hpH-MfotWt9C2atABl1WQLbYLv/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QGMtNOMN5M9s2aB09h6jKvBf_EZsTi7g/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QY3HomsHkIRGOqn_X6hRye918rWopPJ3/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QeHAXa-gImUuZ9pfbfxdXdWOMTaN8fgH/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RN-qbRjf15wwS0nYETHFGH66lwFG5WPV/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RKPnARmmXFBe_BCsWO6ljxuytZBUReby/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QGNLNJD1a3YqCS8dUZS2NrXH78IcBrsH/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RL-5tzFlfAdB-IaImG0pCercZfzKQAug/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RMtz9YyHh-_G7T2EtZ2-vwAijYLeDmjJ/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RJE2aUM7rJ9wIM6drqPLODoyCa0wELuF/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QkkEf550BL_OVyZVHxkpqqYd936vJIeB/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QN2UuHnluw9y7QOpuTqwJ5qhVJPWBKZ0/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R3VY3A0C2LC7ujkUr1_kOF4bEZSMzhFC/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RHSDeQQz8jxd0JleCBg5mwJnmswztgRb/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QUWW1nD9zCcvRkmwRaO_Feb1nRqi1osz/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QvDguUXN22cXHkDKd0q7uKyQAMEwS-Ip/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RGH75S_cHQzDbEGoLjzEFe0dQZKqRF_P/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QPl27lzuVzm7Gh985MDVjjO4Mgc0aMEU/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RIjKDn_3brigeNktMFCl5izPQLaKu_5j/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QGJrIU88PAB71NrvHT1UBpLTar62hRm3/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RK0SMQVMh89gCoAhn4ea4hQlOQUDlDMk/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qv3qVQb6eyNEdsXSEgAYM01Ijzd8wC9J/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QFMqVsE5MAl2X9b5WD9Y2ceKpL1UKVGR/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QxxgVTwNbVXLFJL2tErjGJWfQ-zo_7qg/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RJHJrtqv4gD52CqY4azuwYW8ZVViwZ8J/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QJxOrRrVsjsHHJ-VvEUHdoqJhNNfD2MD/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RHIO3VEF1_i-7K4G8M4jh2HcHhC9woZZ/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QaHP1J1BI9ZnulKRiQvpXkvzKgzByiPE/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QJYyAT9ZZQJHVh3LQitqmBYWGfd88kr_/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R8jv-IA45m0jGfON2nHS5QZz9_nuzQzi/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QezjNBYBFNxMZdJ6xcwnJw7oNoyJkmBJ/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QqcbrR-T8aN8ZDGh_MUqxVGmk9N5KRHD/view?usp=sharing[1080]
+https://drive.google.com/file/d/1R9ZRghjUyY-jWg9TEjDhcasvawqTJRkF/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qc9WkXFp9NV6ZHJ1QLqJAy4Uyt0CSBds/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QEQCsUEPGGBBHdLYTvjZqbJnXSSFYeGx/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Q9us7fnTbC8QG8SNRbhPNVTDB9dTQYLm/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QXY6Bx5nyTL_GM3Ma4L6MQ7n6rwOD16z/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QDq9md1_cDDA_0tkvX0GknUsmM2kUt4Y/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qn4GFAntTe7KoMNAsFbH1yFrYxWN4MSK/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QqpQ9syEUmbTtnH-tnu59Zql9wgAPOkV/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QWdby-3lCp1nOUhqecJNMEhTlxuapp87/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QI-REcoNyvhr2WyeiXmnLpyefrNJZu3x/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RNQaUFHjNc0lDv3u2C2a5vKikdXO1xYg/view?usp=sharing[1080]
+https://drive.google.com/file/d/1RMi53W-xM5q73bskkLDGGUoUt2Pdu9bZ/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QaTxE0laILtlVfB8rHfokskKurovOTul/view?usp=sharing[1080]
+https://drive.google.com/file/d/1QUYU8PSfOhZLvzpYDK7AZs5Y99l_dqpA/view?usp=sharing[1080]
+https://drive.google.com/file/d/1Qy6i04dHoe4IpZVgIT8Kw86rqojh1uUt/view?usp=sharing[1080]
+
+
+
+
+
+
 
 == 1st Quarter
 === Module 1 -- Review 1
@@ -56,18 +282,10 @@ We covered aleph through vav.
 ===== Wednesday, August 7, 2024
 
 Review aleph through vav.
- 
-Watch Lesson 1
-https://drive.google.com/file/d/1P19C0n9WOwClvIL6FHoGER0F5FbP0pnK/view?usp=share_link[480]
-https://drive.google.com/file/d/1RS8AATTHHyMtNJBVUBb8KBRNKwYUnvFF/view?usp=sharing[1080]
 
-https://video.link/w/l7G9xJ9dXXA
+Watch {lesson1video}
 
-Watch Lesson 2
-https://drive.google.com/file/d/1P_W2MCK-uA9_DpcAaZJHKDzi2-ymcK7q/view?usp=share_link[480]
-https://drive.google.com/file/d/1QRQJBYO_GauTbJNi_lWgzeLUGfJi5xU2/view?usp=share_link[1080]
-
-https://video.link/w/5guHp9NaPRE
+Watch {lesson2video}
 
 //end::Assignment-003[]
 //tag::Assignment-004[]
@@ -75,17 +293,9 @@ https://video.link/w/5guHp9NaPRE
 
 Review aleph through vav.
 
-Watch Lesson 1
-https://drive.google.com/file/d/1P19C0n9WOwClvIL6FHoGER0F5FbP0pnK/view?usp=share_link[480]
-https://drive.google.com/file/d/1RS8AATTHHyMtNJBVUBb8KBRNKwYUnvFF/view?usp=sharing[1080]
+Watch {lesson1video}
 
-https://video.link/w/l7G9xJ9dXXA
-
-Watch Lesson 2
-https://drive.google.com/file/d/1P_W2MCK-uA9_DpcAaZJHKDzi2-ymcK7q/view?usp=share_link[480]
-https://drive.google.com/file/d/1QRQJBYO_GauTbJNi_lWgzeLUGfJi5xU2/view?usp=share_link[1080]
-
-https://video.link/w/5guHp9NaPRE
+Watch {lesson2video}
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
@@ -112,19 +322,14 @@ If the links do not work, try right-clicking them and opening them in a new tab.
 
 https://drive.google.com/file/d/1IfoRKLxtd76SrZtIBSmlldhIUZ-nMkjh/view?usp=share_link[Writing Hebrew Consonants]
 
-Watch the Lesson 1 and 2 Review Video
-https://drive.google.com/file/d/1P3TPocK-y-WDWBRvGlQlgdfu5EsdAJXm/view?usp=share_link[480]
-https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=share_link[1080]
+Watch {lesson1-2video}
 
 
 Optional
-Watch Lesson 2
-https://drive.google.com/file/d/1P_W2MCK-uA9_DpcAaZJHKDzi2-ymcK7q/view?usp=share_link[480]
-https://drive.google.com/file/d/1QRQJBYO_GauTbJNi_lWgzeLUGfJi5xU2/view?usp=share_link[1080]
 
-Watch Lesson 1
-https://drive.google.com/file/d/1P19C0n9WOwClvIL6FHoGER0F5FbP0pnK/view?usp=share_link[480]
-https://drive.google.com/file/d/1RS8AATTHHyMtNJBVUBb8KBRNKwYUnvFF/view?usp=sharing[1080]
+Watch {lesson1video}
+
+Watch {lesson2video}
 
 
 //end::Assignment-006[]
@@ -143,35 +348,22 @@ We will practice writing and saying words from the videos. We will very briefly 
 ===== Wednesday, August 14, 2024
 https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Review Vocabulary for chapters 1-3]
 
-Watch the Lesson 1 and 2 Review Video
-https://drive.google.com/file/d/1P3TPocK-y-WDWBRvGlQlgdfu5EsdAJXm/view?usp=share_link[480]
-https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=share_link[1080]
+Watch {lesson1-2video}
 
-Watch Lesson 3
-https://drive.google.com/file/d/1PE3VQ54d9oF8g8whSCH2c1YE09asvw0s/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qt6RWaNvJM83ES5HjP1pEeoLGf40Hj58/view?usp=share_link[1080]
+Watch {lesson3video}
 
-Watch Lesson 3b
-https://drive.google.com/file/d/1PqfrF0d4CkFKfJibze0E8OiKmdrxjzgj/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qn7EYqm1dqUpPaadxaxG4hPhXjhJCkwD/view?usp=share_link[1080]
-
+Watch {lesson3bvideo}
 
 //end::Assignment-008[]
 //tag::Assignment-009[]
 ===== Thursday, August 15, 2024
 https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Review Vocabulary for chapters 1-3]
 
-Watch the Lesson 1 and 2 Review Video
-https://drive.google.com/file/d/1P3TPocK-y-WDWBRvGlQlgdfu5EsdAJXm/view?usp=share_link[480]
-https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=share_link[1080]
+Watch {lesson1-2video}
 
-Watch Lesson 3
-https://drive.google.com/file/d/1PE3VQ54d9oF8g8whSCH2c1YE09asvw0s/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qt6RWaNvJM83ES5HjP1pEeoLGf40Hj58/view?usp=share_link[1080]
+Watch {lesson3video}
 
-Watch Lesson 3b
-https://drive.google.com/file/d/1PqfrF0d4CkFKfJibze0E8OiKmdrxjzgj/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qn7EYqm1dqUpPaadxaxG4hPhXjhJCkwD/view?usp=share_link[1080]
+Watch {lesson3bvideo}
 
 //end::Assignment-009[]
 //tag::Assignment-010[]
@@ -208,13 +400,9 @@ https://hebrew.billmounce.com/BasicsBiblicalHebrew-02.pdf[Lesson on Vowels]
 
 https://hebrew.billmounce.com/BasicsBiblicalHebrew-03.pdf[Lesson on Syllables]
 
-Watch Lesson 3
-https://drive.google.com/file/d/1PE3VQ54d9oF8g8whSCH2c1YE09asvw0s/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qt6RWaNvJM83ES5HjP1pEeoLGf40Hj58/view?usp=share_link[1080]
+Watch {lesson3video}
 
-Watch Lesson 3b
-https://drive.google.com/file/d/1PqfrF0d4CkFKfJibze0E8OiKmdrxjzgj/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qn7EYqm1dqUpPaadxaxG4hPhXjhJCkwD/view?usp=share_link[1080]
+Watch {lesson3bvideo}
 
 //end::Assignment-011[]
 //tag::Assignment-012[]
@@ -230,17 +418,11 @@ We will talk about the conjuction and dagheshes.
 
 https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Vocabulary for chapters 1-3]
 
-Watch Lesson 1
-https://drive.google.com/file/d/1P19C0n9WOwClvIL6FHoGER0F5FbP0pnK/view?usp=share_link[480]
-https://drive.google.com/file/d/1RS8AATTHHyMtNJBVUBb8KBRNKwYUnvFF/view?usp=sharing[1080]
+Watch {lesson1video}
 
-Watch Lesson 2
-https://drive.google.com/file/d/1P_W2MCK-uA9_DpcAaZJHKDzi2-ymcK7q/view?usp=share_link[480]
-https://drive.google.com/file/d/1QRQJBYO_GauTbJNi_lWgzeLUGfJi5xU2/view?usp=share_link[1080]
+Watch {lesson2video}
 
-Watch the Lesson 1 and 2 Review Video
-https://drive.google.com/file/d/1P3TPocK-y-WDWBRvGlQlgdfu5EsdAJXm/view?usp=share_link[480]
-https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=share_link[1080]
+Watch {lesson1-2video}
 
 //end::Assignment-013[]
 //tag::Assignment-014[]
@@ -248,17 +430,15 @@ https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=share
 
 https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Vocabulary for chapters 1-3]
 
-Watch Lesson 3
-https://drive.google.com/file/d/1PE3VQ54d9oF8g8whSCH2c1YE09asvw0s/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qt6RWaNvJM83ES5HjP1pEeoLGf40Hj58/view?usp=share_link[1080]
+Watch {lesson3video}
 
-Watch Lesson 3b
-https://drive.google.com/file/d/1PqfrF0d4CkFKfJibze0E8OiKmdrxjzgj/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qn7EYqm1dqUpPaadxaxG4hPhXjhJCkwD/view?usp=share_link[1080]
+Watch {lesson3bvideo}
 
 //end::Assignment-014[]
 //tag::Assignment-015[]
 ===== Friday, August 23, 2024
+We will start going over 
+https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
 
 //end::Assignment-015[]
 //tag::Quiz-03[]
@@ -275,87 +455,45 @@ Chaptes 1-17
 
 
 
-Lesson 4
-https://drive.google.com/file/d/1PycSPT6J3WeFoV0JVBlfAkzX1t0Rbbzw/view?usp=share_link[480]
-https://drive.google.com/file/d/1QisciQuxo6dKKgInMal_IM1PZtR-QK4Z/view?usp=share_link[1080]
-
-Lesson 4b
-https://drive.google.com/file/d/1PZrQwT5uZQxy61O6kjpwXAwKP6FvIXiZ/view?usp=share_link[480]
-https://drive.google.com/file/d/1QwsyL1erOMhI4yiCsqdyQM6ZjIYYWljG/view?usp=share_link[1080]
-
-Watch Lesson 4
-https://drive.google.com/file/d/1PycSPT6J3WeFoV0JVBlfAkzX1t0Rbbzw/view?usp=share_link[480]
-https://drive.google.com/file/d/1QisciQuxo6dKKgInMal_IM1PZtR-QK4Z/view?usp=share_link[1080]
-
-Watch Lesson 4b
-https://drive.google.com/file/d/1PZrQwT5uZQxy61O6kjpwXAwKP6FvIXiZ/view?usp=share_link[480]
-https://drive.google.com/file/d/1QwsyL1erOMhI4yiCsqdyQM6ZjIYYWljG/view?usp=share_link[1080]
-
-Watch the review for lessons 3-4
-https://drive.google.com/file/d/1Ppkg8ZEcCDpNdPW3LHEpljPXWa0F3ds2/view?usp=share_link[480]
-https://drive.google.com/file/d/1QIR8GJbEWcYkkbc8Y7zShy5KfsIq9oiU/view?usp=share_link[1080]
-
 We will discuss verb endings and pronouns.
 
-We start going over 
-https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
-
-We will try to watch the videos for Lesson 5.
-
-Lesson 5
-https://drive.google.com/file/d/1PRJnnV9qYsVKyAteqe0Nw-G7FrEVDGul/view?usp=share_link[480]
-https://drive.google.com/file/d/1QXTn5TZrP6fSmXAzmwhIxzIw816LF6tq/view?usp=share_link[1080]
-
-Lesson 5b
-https://drive.google.com/file/d/1PXnnmPAmCAhD4utvBT_kGp-38_YfpyEH/view?usp=share_link[480]
-https://drive.google.com/file/d/1RG5wWsC3TV6DVWy6mS_iF71yL7skDs5k/view?usp=sharing[1080]
 
 
-Review 
-https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
-
-Watch Lesson 5
-https://drive.google.com/file/d/1PRJnnV9qYsVKyAteqe0Nw-G7FrEVDGul/view?usp=share_link[480]
-https://drive.google.com/file/d/1QXTn5TZrP6fSmXAzmwhIxzIw816LF6tq/view?usp=share_link[1080]
-
-Watch Lesson 5b
-https://drive.google.com/file/d/1PXnnmPAmCAhD4utvBT_kGp-38_YfpyEH/view?usp=share_link[480]
-https://drive.google.com/file/d/1RG5wWsC3TV6DVWy6mS_iF71yL7skDs5k/view?usp=sharing[1080]
 
 
-Review 
-https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
-
-Watch Lesson 6
-https://drive.google.com/file/d/1P9ND4fa-DidkxfDxyMIqbFdvNa74zUfT/view?usp=share_link[480]
-https://drive.google.com/file/d/1Qt0dOWpBxRNyZ5utflbvZVG03OXAVDLG/view?usp=share_link[1080]
-
-Watch Lesson 6b
-https://drive.google.com/file/d/1PirM12qY5n_axLMgg9_ffDdOzsqf66O0/view?usp=share_link[480]
-https://drive.google.com/file/d/1R2hj3fC7fSnXsEiZdTSatzdx3ursW5NP/view?usp=share_link[1080]
-
-Watch Lessons 5-6 Review
-https://drive.google.com/file/d/1PuQeccGdp9UO8Zbr34m8f655E42IKzdc/view?usp=share_link[480]
-https://drive.google.com/file/d/1R2hj3fC7fSnXsEiZdTSatzdx3ursW5NP/view?usp=share_link[1080]
 
 //tag::Weekly-Overview-6[]
-6
+We will learn about construct forms.
 
 //end::Weekly-Overview-6[]
 //tag::Assignment-016[]
 ===== Monday, August 26, 2024
+Review the lesson 4 vocabulary 
+
+Watch {lesson4video}
+
+Watch {lesson4bvideo}
+
+Watch {lesson5video}
 
 //end::Assignment-016[]
 //tag::Assignment-017[]
 ===== Tuesday, August 27, 2024
+We will go over the lesson 5 vocabulary. https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
 
 //end::Assignment-017[]
 //tag::Assignment-018[]
 ===== Wednesday, August 28, 2024
+Watch {lesson5video}
+
+Watch {lesson5bvideo}
 
 //end::Assignment-018[]
 //tag::Assignment-019[]
 ===== Thursday, August 29, 2024
+Watch {lesson5video}
+
+Watch {lesson5bvideo}
 
 //end::Assignment-019[]
 //tag::Assignment-020[]
@@ -363,7 +501,7 @@ https://drive.google.com/file/d/1R2hj3fC7fSnXsEiZdTSatzdx3ursW5NP/view?usp=share
 
 //end::Assignment-020[]
 //tag::Quiz-04[]
-Quiz 4
+Quiz over the vocabulary from lessons 4 and 5.
 
 //end::Quiz-04[]
 //end::Week-6[]
@@ -385,13 +523,26 @@ Chapters 1-17
 ===== Tuesday, September 3, 2024
 *Satellite Day*
 
+Watch {lesson4video}
+
+Watch {lesson4bvideo}
+
+Watch {lesson5video}
+
+Watch {lesson5bvideo}
+
+Watch {lesson6video}
+
 //end::Assignment-022[]
 //tag::Assignment-023[]
 ===== Wednesday, September 4, 2024
 
+Watch {lesson6video}
+
 //end::Assignment-023[]
 //tag::Assignment-024[]
 ===== Thursday, September 5, 2024
+Watch {lesson6video}
 
 //end::Assignment-024[]
 //tag::Assignment-025[]
