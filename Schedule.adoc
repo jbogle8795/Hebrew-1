@@ -6,7 +6,7 @@
 :sectanchors:
 :sectnums:
 :sectnumlevels: 2
-
+//tag::Variables[]
 :lesson1video: Lesson 1 https://drive.google.com/file/d/1RS8AATTHHyMtNJBVUBb8KBRNKwYUnvFF/view?usp=sharing[1080] https://drive.google.com/file/d/1P19C0n9WOwClvIL6FHoGER0F5FbP0pnK/view?usp=sharing[480]
 :lesson2video: Lesson 2 https://drive.google.com/file/d/1QRQJBYO_GauTbJNi_lWgzeLUGfJi5xU2/view?usp=sharing[1080] https://drive.google.com/file/d/1P_W2MCK-uA9_DpcAaZJHKDzi2-ymcK7q/view?usp=sharing[480]
 :lesson1-2video: Lesson 1-2 Review https://drive.google.com/file/d/1RAvjPvSeQ0hyhTHpPNG7319ApyoIk5lx/view?usp=sharing[1080] https://drive.google.com/file/d/1P3TPocK-y-WDWBRvGlQlgdfu5EsdAJXm/view?usp=sharing[480]
@@ -42,7 +42,7 @@
 :lesson17-18video: Lesson 17-18 Reivew https://drive.google.com/file/d/1QW_m2FqeoS6lZJ0n4jSid21TdUzkPxMv/view?usp=sharing[1080] https://drive.google.com/file/d/1P3P_q-DBgFRinyaxmwXqLOMVzMIFe2Cl/view?usp=sharing[480]
 :lesson19video: Lesson 19 https://drive.google.com/file/d/1RC5EoM7MJb4j56KjWI6EO0LKaNyLAixT/view?usp=sharing[1080] https://drive.google.com/file/d/1PRcdF5heUJBKhIY0LrBQj37fIuGgVUOc/view?usp=sharing[480]
 :alphetbetvideo: Alphabet Video https://drive.google.com/file/d/1QR9yAIeZLsNw2rAz_vPEqlNbRnbarhcY/view?usp=sharing[1080] https://drive.google.com/file/d/1Q5hvBmIGim7u2ESPBISaL9U_94ZRZ0Iq/view?usp=sharing[480]
-
+//end::Variables[]
 == starting with 037
 https://drive.google.com/file/d/1QV_Cy18NYrYBmqQDCTaMyxi89WUsmH2e/view?usp=sharing[1080]
 https://drive.google.com/file/d/1QZPGk02wMbDwwxRXuQdck947xTk1q2pC/view?usp=sharing[1080]
