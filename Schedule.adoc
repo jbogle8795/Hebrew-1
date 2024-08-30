@@ -575,7 +575,7 @@ Watch {lesson1video}, {lesson2video}, {lesson3video}, {lesson3bvideo}, {lesson4v
 
 //end::Assignment-025[]
 //tag::Test-01[]
-Test 1
+This will cover vocabulary from lessons 1-6.
 
 //end::Test-01[]
 //end::Week-7[]
