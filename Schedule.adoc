@@ -452,15 +452,7 @@ Quiz over Vocabulary for chapters 1-3 and syllables.
 //tag::Week-6[]
 Chaptes 1-17
 
-
-
-
 We will discuss verb endings and pronouns.
-
-
-
-
-
 
 //tag::Weekly-Overview-6[]
 We will learn about construct forms.
@@ -515,7 +507,7 @@ Quiz over the vocabulary from lessons 4 and 5.
 Chapters 1-17
 
 //tag::Weekly-Overview-7[]
-7
+We will take our first test.
 
 //end::Weekly-Overview-7[]
 //tag::Assignment-021[]
@@ -537,16 +529,45 @@ Watch {lesson5bvideo}
 
 Watch {lesson6video}
 
+Review Vocabulary from chapters 1-6. https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Vocabulary for chapters 1-3]
+https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
+
+Optional:
+
+Watch {lesson1video}, {lesson2video}, {lesson3video}, {lesson3bvideo}, 
+
+
 //end::Assignment-022[]
 //tag::Assignment-023[]
 ===== Wednesday, September 4, 2024
+Review Vocabulary from chapters 1-6. https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Vocabulary for chapters 1-3]
+https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
+
+Watch {lesson1-2video}
+
+Watch {lesson3-4video}
 
 Watch {lesson6video}
+
+Optional:
+
+Watch {lesson1video}, {lesson2video}, {lesson3video}, {lesson3bvideo}, {lesson4video}, {lesson4bvideo}, {lesson5video}, {lesson5bvideo}
+
 
 //end::Assignment-023[]
 //tag::Assignment-024[]
 ===== Thursday, September 5, 2024
+Review Vocabulary from chapters 1-6. https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Vocabulary for chapters 1-3]
+https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
+
 Watch {lesson6video}
+
+Watch {lesson5-6video}
+
+Optional:
+
+Watch {lesson1video}, {lesson2video}, {lesson3video}, {lesson3bvideo}, {lesson4video}, {lesson4bvideo}, {lesson5video}, {lesson5bvideo}
+
 
 //end::Assignment-024[]
 //tag::Assignment-025[]
