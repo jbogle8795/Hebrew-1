@@ -1,1 +1,3 @@
+include::../Schedule.adoc[tag=Variables]
+
 include::../Schedule.adoc[tag=Assignment-044]
