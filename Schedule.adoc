@@ -701,6 +701,7 @@ Chapters 18-27
 //end::Weekly-Overview-11[]
 //tag::Assignment-036[]
 ===== Monday, September 30, 2024
+Review {lesson7-10vocabulary} and {lesson11-12vocabulary}
 
 //end::Assignment-036[]
 //tag::Assignment-037[]
