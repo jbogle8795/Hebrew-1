@@ -710,10 +710,12 @@ Review {lesson7-10vocabulary} and {lesson11-12vocabulary}
 //end::Assignment-037[]
 //tag::Assignment-038[]
 ===== Wednesday, October 2, 2024
+As needed review {lesson7-10vocabulary}, {lesson11-12vocabulary}, {lesson7video}, {lesson7bvideo}, {lesson8video}, {lesson8bvideo}, {lesson7-8video}, {lesson9video}, {lesson10video}, {lesson9-10video}, {lesson11video}, {lesson11bvideo}, {lesson12video}, {lesson12bvideo}, and {lesson11-12video}
 
 //end::Assignment-038[]
 //tag::Assignment-039[]
 ===== Thursday, October 3, 2024
+As needed review {lesson7-10vocabulary}, {lesson11-12vocabulary}, {lesson7video}, {lesson7bvideo}, {lesson8video}, {lesson8bvideo}, {lesson7-8video}, {lesson9video}, {lesson10video}, {lesson9-10video}, {lesson11video}, {lesson11bvideo}, {lesson12video}, {lesson12bvideo}, and {lesson11-12video}
 
 //end::Assignment-039[]
 //tag::Assignment-040[]
