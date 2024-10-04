@@ -742,7 +742,8 @@ Test over the vocabulary for lessons 7-12.
 
 //tag::Assignment-041[]
 ===== Monday, October 7, 2024
-
+Watch
+{lesson13video}
 //end::Assignment-041[]
 //tag::Assignment-042[]
 ===== Tuesday, October 8, 2024
@@ -750,6 +751,7 @@ Test over the vocabulary for lessons 7-12.
 //end::Assignment-042[]
 //tag::Assignment-043[]
 ===== Wednesday, October 9, 2024
+Watch {lesson14video} and {lesson13-14video}
 
 //end::Assignment-043[]
 //tag::Assignment-044[]
