@@ -47,6 +47,8 @@
 :lesson4-6vocabulary: https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
 :lesson7-10vocabulary: https://drive.google.com/file/d/1N7Hsx0nAYDLthbF3SGIToEi2H_htXoqL/view?usp=share_link[Vocabulary for Chapters 7-10]
 :lesson11-12vocabulary: https://drive.google.com/file/d/1m6tNzdxSSgOPQZ5S7aPw9zArmMmZ4wPW/view?usp=sharing[Vocabulary for Chapters 11-12]
+:lesson13-14vocabulary: https://drive.google.com/file/d/1aDf-hfaGZY6Sb7thlZ_7T2yI-CBGqAo_/view?usp=share_link
+:lesson13-14script: https://drive.google.com/file/d/1aE6iTpdNT16xm3UdAVXqT5OaTj2UCnYh/view?usp=share_link[Script for Chatpers 13-14]
 
 //end::Variables[]
 == starting with 037
@@ -736,7 +738,7 @@ Test over the vocabulary for lessons 7-12.
 ==== Week 12
 //tag::Week-12[]
 //tag::Weekly-Overview-12[]
-12
+We will continue learning vocabulary 
 
 //end::Weekly-Overview-12[]
 
@@ -747,15 +749,21 @@ Watch
 //end::Assignment-041[]
 //tag::Assignment-042[]
 ===== Tuesday, October 8, 2024
+We will review {lesson13-14vocabulary} and {lesson13-14script}
 
 //end::Assignment-042[]
 //tag::Assignment-043[]
 ===== Wednesday, October 9, 2024
 Watch {lesson14video} and {lesson13-14video}
 
+Study {lesson13-14vocabulary}
+
 //end::Assignment-043[]
 //tag::Assignment-044[]
 ===== Thursday, October 10, 2024
+Watch {lesson14video} and {lesson13-14video}
+
+Study {lesson13-14vocabulary}
 
 //end::Assignment-044[]
 //tag::Assignment-045[]
@@ -763,7 +771,7 @@ Watch {lesson14video} and {lesson13-14video}
 
 //end::Assignment-045[]
 //tag::Quiz-07[]
-Quiz 7
+Quiz over chatper 14 vocabulary
 
 //end::Quiz-07[]
 //end::Week-12[]
