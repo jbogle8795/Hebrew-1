@@ -785,6 +785,8 @@ Quiz over chatper 14 vocabulary
 //tag::Assignment-046[]
 ===== Monday, October 14, 2024
 
+Watch {lesson13-14video} and {lesson15video}
+
 //end::Assignment-046[]
 //tag::Assignment-047[]
 ===== Tuesday, October 15, 2024
