@@ -794,10 +794,15 @@ Watch {lesson13-14video} and {lesson15video}
 //end::Assignment-047[]
 //tag::Assignment-048[]
 ===== Wednesday, October 16, 2024
+Watch {lesson15video} and {lesson14video}
+
+Study https://drive.google.com/file/d/12uDhPWY-kliD4H0xbrka0LkBUXqqaJbb/view?usp=share_link[Lesson 15 Vocabulary] and https://drive.google.com/file/d/12r_037kErWMSChkEtQ3F2ESDTjJ8MNLL/view?usp=sharing[Lesson 15 Script]
 
 //end::Assignment-048[]
 //tag::Assignment-049[]
 ===== Thursday, October 17, 2024
+Watch {lesson16video}
+Study https://drive.google.com/file/d/12uDhPWY-kliD4H0xbrka0LkBUXqqaJbb/view?usp=share_link[Lesson 15 Vocabulary] and https://drive.google.com/file/d/12r_037kErWMSChkEtQ3F2ESDTjJ8MNLL/view?usp=sharing[Lesson 15 Script]
 
 //end::Assignment-049[]
 //tag::Assignment-050[]
@@ -805,7 +810,7 @@ Watch {lesson13-14video} and {lesson15video}
 
 //end::Assignment-050[]
 //tag::Quiz-08[]
-Quiz 8
+Lesson 15 Vocabulary quiz
 
 //end::Quiz-08[]
 //end::Week-13[]
