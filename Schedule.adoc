@@ -823,6 +823,9 @@ Lesson 15 Vocabulary quiz
 //end::Weekly-Overview-14[]
 //tag::Assignment-051[]
 ===== Monday, October 21, 2024
+Watch {lesson17video}
+
+Study https://drive.google.com/file/d/13UJ4Do7UTLi31wN_ktXlWggoQJD2qCSz/view?usp=share_link[Lesson 17 Script] and https://drive.google.com/file/d/13VwilJCgc62WCJ_9GjLD9i5kaoDIcB76/view?usp=sharing[Lesson 17 Vocabulary]
 
 //end::Assignment-051[]
 //tag::Assignment-052[]
