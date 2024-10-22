@@ -840,6 +840,10 @@ Watch {lesson14-15video}
 
 Study https://drive.google.com/file/d/13UJ4Do7UTLi31wN_ktXlWggoQJD2qCSz/view?usp=share_link[Lesson 17 Script] and https://drive.google.com/file/d/13VwilJCgc62WCJ_9GjLD9i5kaoDIcB76/view?usp=sharing[Lesson 17 Vocabulary]
 
+https://hebrew.billmounce.com/BasicsBiblicalHebrew-09.pdf[Bill Mounce - Basics of Biblical Hebrew]
+
+https://freehebrew.online/resources/[Aleph with Beth's online resources]
+
 //end::Assignment-053[]
 //tag::Assignment-054[]
 ===== Thursday, October 24, 2024
