@@ -836,9 +836,17 @@ Study https://drive.google.com/file/d/13UJ4Do7UTLi31wN_ktXlWggoQJD2qCSz/view?usp
 //tag::Assignment-053[]
 ===== Wednesday, October 23, 2024
 
+Watch {lesson14-15video}
+
+Study https://drive.google.com/file/d/13UJ4Do7UTLi31wN_ktXlWggoQJD2qCSz/view?usp=share_link[Lesson 17 Script] and https://drive.google.com/file/d/13VwilJCgc62WCJ_9GjLD9i5kaoDIcB76/view?usp=sharing[Lesson 17 Vocabulary]
+
 //end::Assignment-053[]
 //tag::Assignment-054[]
 ===== Thursday, October 24, 2024
+
+Watch {lesson16video} and {lesson17video}
+
+Study https://drive.google.com/file/d/13UJ4Do7UTLi31wN_ktXlWggoQJD2qCSz/view?usp=share_link[Lesson 17 Script] and https://drive.google.com/file/d/13VwilJCgc62WCJ_9GjLD9i5kaoDIcB76/view?usp=sharing[Lesson 17 Vocabulary]
 
 //end::Assignment-054[]
 //tag::Assignment-055[]
@@ -846,7 +854,7 @@ Study https://drive.google.com/file/d/13UJ4Do7UTLi31wN_ktXlWggoQJD2qCSz/view?usp
 
 //end::Assignment-055[]
 //tag::Quiz-09[]
-Quiz 9
+We will have a quiz over the vocabulary for chapter 17.
 
 //end::Quiz-09[]
 //end::Week-14[]
