@@ -867,12 +867,20 @@ We will have a quiz over the vocabulary for chapter 17.
 ==== Week 15
 //tag::Week-15[]
 //tag::Weekly-Overview-15[]
-15
+We will continue learning vocabulary.
+
 
 //end::Weekly-Overview-15[]
 
 //tag::Assignment-056[]
 ===== Monday, October 28, 2024
+Watch {lesson18video} and {lesson17-18video}.
+
+Study https://docs.google.com/document/d/12vvtbv2yEH0ttkCEYv4oK0rfPR-FgrfB/edit?usp=share_link&rtpof=true&sd=true[Lessons 18 and 19 Vocabulary]
+
+Study https://docs.google.com/document/d/139Zk1BJwEU4wq9PbZHXjGi-ZEUs9Zr7f/edit?usp=share_link&ouid=112551519005771291326&rtpof=true&sd=true[Lesson 18 Script]
+
+Study https://docs.google.com/document/d/13BXNmujyo8X2_YbJMUFexwFW5yTTAAen/edit?usp=sharing&ouid=112551519005771291326&rtpof=true&sd=true[Lesson 19 Script]
 
 //end::Assignment-056[]
 //tag::Assignment-057[]
@@ -881,10 +889,24 @@ We will have a quiz over the vocabulary for chapter 17.
 //end::Assignment-057[]
 //tag::Assignment-058[]
 ===== Wednesday, October 30, 2024
+Watch {lesson19video}.
+
+Study https://docs.google.com/document/d/12vvtbv2yEH0ttkCEYv4oK0rfPR-FgrfB/edit?usp=share_link&rtpof=true&sd=true[Lessons 18 and 19 Vocabulary]
+
+Study https://docs.google.com/document/d/139Zk1BJwEU4wq9PbZHXjGi-ZEUs9Zr7f/edit?usp=share_link&ouid=112551519005771291326&rtpof=true&sd=true[Lesson 18 Script]
+
+Study https://docs.google.com/document/d/13BXNmujyo8X2_YbJMUFexwFW5yTTAAen/edit?usp=sharing&ouid=112551519005771291326&rtpof=true&sd=true[Lesson 19 Script]
 
 //end::Assignment-058[]
 //tag::Assignment-059[]
 ===== Thursday, October 31, 2024
+Watch {lesson19video}.
+
+Study https://docs.google.com/document/d/12vvtbv2yEH0ttkCEYv4oK0rfPR-FgrfB/edit?usp=share_link&rtpof=true&sd=true[Lessons 18 and 19 Vocabulary]
+
+Study https://docs.google.com/document/d/139Zk1BJwEU4wq9PbZHXjGi-ZEUs9Zr7f/edit?usp=share_link&ouid=112551519005771291326&rtpof=true&sd=true[Lesson 18 Script]
+
+Study https://docs.google.com/document/d/13BXNmujyo8X2_YbJMUFexwFW5yTTAAen/edit?usp=sharing&ouid=112551519005771291326&rtpof=true&sd=true[Lesson 19 Script]
 
 //end::Assignment-059[]
 //tag::Assignment-060[]
@@ -907,6 +929,8 @@ Quiz 10
 //tag::Assignment-061[]
 ===== Monday, November 4, 2024
 
+
+Lesson 20
 //end::Assignment-061[]
 //tag::Assignment-062[]
 ===== Tuesday, November 5, 2024
