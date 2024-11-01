@@ -928,21 +928,31 @@ Quiz 10
 
 //tag::Assignment-061[]
 ===== Monday, November 4, 2024
+Review 
+https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[Lesson 1-20 Vocabulary]
 
 
-Lesson 20
 //end::Assignment-061[]
 //tag::Assignment-062[]
 ===== Tuesday, November 5, 2024
 *Satellite Day*
 
+Review 
+https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[Lesson 1-20 Vocabulary]
+
 //end::Assignment-062[]
 //tag::Assignment-063[]
 ===== Wednesday, November 6, 2024
 
+Review 
+https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[Lesson 1-20 Vocabulary]
+
 //end::Assignment-063[]
 //tag::Assignment-064[]
 ===== Thursday, November 7, 2024
+
+Review 
+https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[Lesson 1-20 Vocabulary]
 
 //end::Assignment-064[]
 //tag::Assignment-065[]
@@ -950,7 +960,8 @@ Lesson 20
 
 //end::Assignment-065[]
 //tag::Test-03[]
-Test 3
+Test over 
+https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[Lesson 1-20 Vocabulary]
 
 //end::Test-03[]
 //end::Week-16[]
