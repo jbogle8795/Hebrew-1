@@ -52,10 +52,10 @@
 
 //end::Variables[]
 == starting with 037
-https://drive.google.com/file/d/1QV_Cy18NYrYBmqQDCTaMyxi89WUsmH2e/view?usp=sharing[1080]
-https://drive.google.com/file/d/1QZPGk02wMbDwwxRXuQdck947xTk1q2pC/view?usp=sharing[1080]
+:lesson20video: Lesson 20 https://drive.google.com/file/d/1QV_Cy18NYrYBmqQDCTaMyxi89WUsmH2e/view?usp=sharing[1080]
+:lesson19-20video: Lesson 19-20 https://drive.google.com/file/d/1QZPGk02wMbDwwxRXuQdck947xTk1q2pC/view?usp=sharing[1080]
 https://drive.google.com/file/d/1RIULPtac3bMb5YQzwrfsyn9V596A8gor/view?usp=sharing[1080]
-https://drive.google.com/file/d/1QZVEo0zDoe_f6NvVugbs2S9Q7weYQWqz/view?usp=sharing[1080]
+:lesson21video: Lesson 21 https://drive.google.com/file/d/1QZVEo0zDoe_f6NvVugbs2S9Q7weYQWqz/view?usp=sharing[1080]
 https://drive.google.com/file/d/1QXwp39y6J51Lg6DQ6aVlZ5Gj0U-ld-7_/view?usp=sharing[1080]
 https://drive.google.com/file/d/1RCopf8AKUsb1XU-eCFdBNzgdIaqbrw1t/view?usp=sharing[1080]
 https://drive.google.com/file/d/1QqBqPYZK5E7WUaxSC666yKqmaxR7QscG/view?usp=sharing[1080]
@@ -978,6 +978,8 @@ https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[
 
 //tag::Assignment-066[]
 ===== Monday, November 11, 2024
+
+Watch {lesson21video}
 
 //end::Assignment-066[]
 //tag::Assignment-067[]
