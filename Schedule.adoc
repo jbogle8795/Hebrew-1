@@ -982,6 +982,12 @@ https://drive.google.com/open?id=16peTjCV2KWwktsuw_3btl83jPbCqo7Cj&usp=drive_fs[
 
 Watch {lesson21video}
 
+Study 
+https://drive.google.com/open?id=17zEW36iJPE_Chybp9kKMYInWyC4_yn34&usp=drive_fs[Lesson 21 Vocabulary]
+
+Review
+https://drive.google.com/open?id=17yvLA7c-MpFNs_mUMaI8LtCVReqfmBNy&usp=drive_fs[Lesson 21 Script]
+
 //end::Assignment-066[]
 //tag::Assignment-067[]
 ===== Tuesday, November 12, 2024
@@ -990,9 +996,30 @@ Watch {lesson21video}
 //tag::Assignment-068[]
 ===== Wednesday, November 13, 2024
 
+Watch {lesson21video}
+
+Review older lessons.
+
+Study 
+https://drive.google.com/open?id=17zEW36iJPE_Chybp9kKMYInWyC4_yn34&usp=drive_fs[Lesson 21 Vocabulary]
+
+Review
+https://drive.google.com/open?id=17yvLA7c-MpFNs_mUMaI8LtCVReqfmBNy&usp=drive_fs[Lesson 21 Script]
+
+
 //end::Assignment-068[]
 //tag::Assignment-069[]
 ===== Thursday, November 14, 2024
+
+Watch {lesson21video}
+
+Review older lessons.
+
+Study 
+https://drive.google.com/open?id=17zEW36iJPE_Chybp9kKMYInWyC4_yn34&usp=drive_fs[Lesson 21 Vocabulary]
+
+Review
+https://drive.google.com/open?id=17yvLA7c-MpFNs_mUMaI8LtCVReqfmBNy&usp=drive_fs[Lesson 21 Script]
 
 //end::Assignment-069[]
 //tag::Assignment-070[]
@@ -1000,7 +1027,7 @@ Watch {lesson21video}
 
 //end::Assignment-070[]
 //tag::Quiz-11[]
-Quiz 11
+Quiz over lesson 21 vocabulary.
 
 //end::Quiz-11[]
 //end::Week-17[]
