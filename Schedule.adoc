@@ -46,6 +46,9 @@
 :lesson19-20video: Lesson 19-20 https://drive.google.com/file/d/1QZPGk02wMbDwwxRXuQdck947xTk1q2pC/view?usp=sharing[1080]
 :alphabetvideo: https://drive.google.com/file/d/1RIULPtac3bMb5YQzwrfsyn9V596A8gor/view?usp=sharing[1080]
 :lesson21video: Lesson 21 https://drive.google.com/file/d/1QZVEo0zDoe_f6NvVugbs2S9Q7weYQWqz/view?usp=sharing[1080]
+:lesson21video: Lesson 22 https://drive.google.com/file/d/1QXwp39y6J51Lg6DQ6aVlZ5Gj0U-ld-7_/view?usp=sharing[1080]
+:lesson21-22video: Lessons 21-22 Review https://drive.google.com/file/d/1RCopf8AKUsb1XU-eCFdBNzgdIaqbrw1t/view?usp=sharing[1080]
+:lesson23video: Lesson 23 https://drive.google.com/file/d/1QqBqPYZK5E7WUaxSC666yKqmaxR7QscG/view?usp=sharing[1080]
 
 :lesson1-3vocabulary: https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Review Vocabulary for chapters 1-3]
 :lesson4-6vocabulary: https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
@@ -57,9 +60,7 @@
 //end::Variables[]
 == starting with 037
 
-https://drive.google.com/file/d/1QXwp39y6J51Lg6DQ6aVlZ5Gj0U-ld-7_/view?usp=sharing[1080]
-https://drive.google.com/file/d/1RCopf8AKUsb1XU-eCFdBNzgdIaqbrw1t/view?usp=sharing[1080]
-https://drive.google.com/file/d/1QqBqPYZK5E7WUaxSC666yKqmaxR7QscG/view?usp=sharing[1080]
+
 https://drive.google.com/file/d/1QY_qZZodypihNf_fQW1j2APtT9BfEOw9/view?usp=sharing[1080]
 https://drive.google.com/file/d/1QHbNaQw51KlTJGMRu0xcCEb7pOAO1oOj/view?usp=sharing[1080]
 https://drive.google.com/file/d/1QxeY82IoG7lgMfBBacI0QwPL93p8NQFY/view?usp=sharing[1080]
@@ -1104,6 +1105,12 @@ Quiz 12
 //tag::Assignment-076[]
 ===== Monday, December 2, 2024
 
+watch {lesson23video}
+
+Watch {lesson21-22video}
+
+Study https://drive.google.com/file/d/1A0sf8dkv1VNavMQuxrN4GgfsINiIO16R/view?usp=sharing[Lesson 23 Vocabulary] and https://drive.google.com/file/d/19iA8lQaby7m657xa5gcxDErbUQFhR9d5/view?usp=sharing[Lesson 23 Script]
+
 //end::Assignment-076[]
 //tag::Assignment-077[]
 ===== Tuesday, December 3, 2024
@@ -1113,9 +1120,21 @@ Quiz 12
 //tag::Assignment-078[]
 ===== Wednesday, December 4, 2024
 
+watch {lesson23video}
+
+Watch {lesson21-22video}
+
+Study https://drive.google.com/file/d/1A0sf8dkv1VNavMQuxrN4GgfsINiIO16R/view?usp=sharing[Lesson 23 Vocabulary] and https://drive.google.com/file/d/19iA8lQaby7m657xa5gcxDErbUQFhR9d5/view?usp=sharing[Lesson 23 Script]
+
 //end::Assignment-078[]
 //tag::Assignment-079[]
 ===== Thursday, December 5, 2024
+
+watch {lesson23video}
+
+Watch {lesson21-22video}
+
+Study https://drive.google.com/file/d/1A0sf8dkv1VNavMQuxrN4GgfsINiIO16R/view?usp=sharing[Lesson 23 Vocabulary] and https://drive.google.com/file/d/19iA8lQaby7m657xa5gcxDErbUQFhR9d5/view?usp=sharing[Lesson 23 Script]
 
 //end::Assignment-079[]
 //tag::Assignment-080[]
@@ -1123,7 +1142,7 @@ Quiz 12
 
 //end::Assignment-080[]
 //tag::Quiz-13[]
-Quiz 13
+Quiz over lesson 23
 
 //end::Quiz-13[]
 //end::Week-20[]
@@ -1157,7 +1176,7 @@ Quiz 13
 
 //end::Assignment-085[]
 //tag::Test-04[]
-Test 4
+Test over vocabulary from lessons 1-23.
 
 //end::Test-04[]
 //end::Week-21[]
