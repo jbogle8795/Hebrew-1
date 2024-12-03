@@ -1136,9 +1136,13 @@ Watch {lesson21-22video}
 
 Study https://drive.google.com/file/d/1A0sf8dkv1VNavMQuxrN4GgfsINiIO16R/view?usp=sharing[Lesson 23 Vocabulary] and https://drive.google.com/file/d/19iA8lQaby7m657xa5gcxDErbUQFhR9d5/view?usp=sharing[Lesson 23 Script]
 
+https://drive.google.com/file/d/1bBDvl7En0c-WA43V5-5DvojjPN1mfYUv/view?usp=sharing[Vocabulary 1-100]
+
 //end::Assignment-079[]
 //tag::Assignment-080[]
 ===== Friday, December 6, 2024
+
+https://drive.google.com/file/d/1bBDvl7En0c-WA43V5-5DvojjPN1mfYUv/view?usp=sharing[Vocabulary 1-100]
 
 //end::Assignment-080[]
 //tag::Quiz-13[]
@@ -1177,6 +1181,8 @@ Quiz over lesson 23
 //end::Assignment-085[]
 //tag::Test-04[]
 Test over vocabulary from lessons 1-23.
+
+https://drive.google.com/file/d/1bBDvl7En0c-WA43V5-5DvojjPN1mfYUv/view?usp=sharing[Vocabulary 1-100]
 
 //end::Test-04[]
 //end::Week-21[]
