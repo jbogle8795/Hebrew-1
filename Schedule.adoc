@@ -1273,11 +1273,17 @@ https://drive.google.com/open?id=1E1wkMWLr_BfUDELlfLWUdVYqW-m_8vt-&usp=drive_fs[
 //tag::Assignment-093[]
 ===== Wednesday, January 8, 2025
 
-Study 
+Watch {lesson24video}
+
+Study https://drive.google.com/open?id=1E1wkMWLr_BfUDELlfLWUdVYqW-m_8vt-&usp=drive_fs[Lesson 24]
 
 //end::Assignment-093[]
 //tag::Assignment-094[]
 ===== Thursday, January 9, 2025
+
+Watch {lesson24video}
+
+Study https://drive.google.com/open?id=1E1wkMWLr_BfUDELlfLWUdVYqW-m_8vt-&usp=drive_fs[Lesson 24]
 
 //end::Assignment-094[]
 //tag::Assignment-095[]
@@ -1285,7 +1291,8 @@ Study
 
 //end::Assignment-095[]
 //tag::Quiz-14[]
-Quiz 14
+
+Lesson 24 Vocabulary
 
 //end::Quiz-14[]
 //end::Week-23[]
