@@ -49,6 +49,10 @@
 :lesson21video: Lesson 22 https://drive.google.com/file/d/1QXwp39y6J51Lg6DQ6aVlZ5Gj0U-ld-7_/view?usp=sharing[1080]
 :lesson21-22video: Lessons 21-22 Review https://drive.google.com/file/d/1RCopf8AKUsb1XU-eCFdBNzgdIaqbrw1t/view?usp=sharing[1080]
 :lesson23video: Lesson 23 https://drive.google.com/file/d/1QqBqPYZK5E7WUaxSC666yKqmaxR7QscG/view?usp=sharing[1080]
+:lesson24video: Lesson 24 https://drive.google.com/file/d/1QY_qZZodypihNf_fQW1j2APtT9BfEOw9/view?usp=sharing[1080]
+:lesson23-24video: Lesson 23-24 https://drive.google.com/open?id=1QHbNaQw51KlTJGMRu0xcCEb7pOAO1oOj&usp=drive_fs[1080]
+:lesson25video: Lesson 25 https://drive.google.com/open?id=1QxeY82IoG7lgMfBBacI0QwPL93p8NQFY&usp=drive_fs[1080]
+
 
 :lesson1-3vocabulary: https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Review Vocabulary for chapters 1-3]
 :lesson4-6vocabulary: https://drive.google.com/file/d/1RYIx2s1g7IKt02ww6nyNZcIf-ToMexbp/view?usp=share_link[Vocabulary for Chapters 4-6]
@@ -1257,16 +1261,19 @@ Review vocabulary from lessons 1-23.
 
 https://drive.google.com/file/d/1bBDvl7En0c-WA43V5-5DvojjPN1mfYUv/view?usp=sharing[Vocabulary 1-100]
 
-
 //end::Assignment-091[]
 *First Day Back in Class*
 
 //tag::Assignment-092[]
 ===== Tuesday, January 7, 2025
 
+https://drive.google.com/open?id=1E1wkMWLr_BfUDELlfLWUdVYqW-m_8vt-&usp=drive_fs[Lesson 24]
+
 //end::Assignment-092[]
 //tag::Assignment-093[]
 ===== Wednesday, January 8, 2025
+
+Study 
 
 //end::Assignment-093[]
 //tag::Assignment-094[]
@@ -1411,6 +1418,7 @@ Review Chapters 25-27
 //tag::Assignment-115[]
 ===== Friday, February 7, 2025
 
+
 //end::Assignment-115[]
 //tag::Quiz-17[]
 Quiz 17
@@ -1499,6 +1507,7 @@ Quiz 19
 //end::Assignment-126[]
 //tag::Assignment-127[]
 ===== Tuesday, February 25, 2025
+Chapel Schedule
 
 //end::Assignment-127[]
 //tag::Assignment-128[]
@@ -1543,6 +1552,9 @@ Quiz 20
 //end::Assignment-134[]
 //tag::Assignment-135[]
 ===== Friday, March 7, 2025
+
+End of 3rd term
+
 
 //end::Assignment-135[]
 //tag::Test-06[]
@@ -1699,7 +1711,7 @@ Test 7
 36
 
 //end::Weekly-Overview-36[]
-
+Sping Break
 
 //end::Week-36[]
 
@@ -1716,6 +1728,8 @@ Test 7
 //tag::Assignment-157[]
 ===== Tuesday, April 15, 2025
 
+*Seminar Day*
+
 //end::Assignment-157[]
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
@@ -1727,6 +1741,8 @@ Test 7
 //end::Assignment-159[]
 //tag::Assignment-160[]
 ===== Friday, April 18, 2025
+
+*Good Friday*
 
 //end::Assignment-160[]
 //tag::Quiz-24[]
@@ -1782,6 +1798,8 @@ Quiz 25
 //tag::Assignment-167[]
 ===== Tuesday, April 29, 2025
 
+*Chapel Day*
+
 //end::Assignment-167[]
 //tag::Assignment-168[]
 ===== Wednesday, April 30, 2025
@@ -1815,6 +1833,7 @@ Quiz 26
 //end::Assignment-171[]
 //tag::Assignment-172[]
 ===== Tuesday, May 6, 2025
+*Last full day in class*
 
 //end::Assignment-172[]
 //tag::Assignment-173[]
@@ -1827,6 +1846,7 @@ Quiz 26
 //end::Assignment-174[]
 //tag::Assignment-175[]
 ===== Friday, May 9, 2025
+*1/2 day of testing*
 
 //end::Assignment-175[]
 //tag::Quiz-27[]
@@ -1848,8 +1868,19 @@ Quiz 27
 //end::Assignment-176[]
 //tag::Assignment-177[]
 ===== Tuesday, May 13, 2025
+*1/2 day of testing*
+
+*Final Day of School*
 
 //end::Assignment-177[]
+
+
+//tag::Test-08[]
+Test 8
+
+//end::Test-08[]
+
+
 //tag::Assignment-178[]
 ===== Wednesday, May 14, 2025
 
@@ -1861,16 +1892,8 @@ Quiz 27
 //tag::Assignment-180[]
 ===== Friday, May 16, 2025
 
+*Teacher work day*
+
 //end::Assignment-180[]
-//tag::Test-08[]
-Test 8
 
-//end::Test-08[]
 //end::Week-41[]
-
-
-
-
-
-
-
