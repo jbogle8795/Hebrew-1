@@ -1307,6 +1307,10 @@ Lesson 24 Vocabulary
 //tag::Assignment-096[]
 ===== Monday, January 13, 2025
 
+Watch {lesson23-24video}
+
+Study https://drive.google.com/open?id=1E1wkMWLr_BfUDELlfLWUdVYqW-m_8vt-&usp=drive_fs[Lesson 24]
+
 //end::Assignment-096[]
 //tag::Assignment-097[]
 ===== Tuesday, January 14, 2025
