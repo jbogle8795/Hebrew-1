@@ -1315,15 +1315,24 @@ Study https://drive.google.com/open?id=1E1wkMWLr_BfUDELlfLWUdVYqW-m_8vt-&usp=dri
 //tag::Assignment-097[]
 ===== Tuesday, January 14, 2025
 
+Watch {lesson25video}.
+
+Study https://drive.google.com/open?id=1EQ6c6qI0oKRvb9wYvVrmGIQzmUqjzJ7G&usp=drive_fs[Lesson 25]
+
+
 //end::Assignment-097[]
 //tag::Assignment-098[]
 ===== Wednesday, January 15, 2025
+
+Watch {lesson25video}.
 
 Study https://drive.google.com/open?id=1EQ6c6qI0oKRvb9wYvVrmGIQzmUqjzJ7G&usp=drive_fs[Lesson 25]
 
 //end::Assignment-098[]
 //tag::Assignment-099[]
 ===== Thursday, January 16, 2025
+
+Watch {lesson25video}.
 
 Study https://drive.google.com/open?id=1EQ6c6qI0oKRvb9wYvVrmGIQzmUqjzJ7G&usp=drive_fs[Lesson 25]
 
