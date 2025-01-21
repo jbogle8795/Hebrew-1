@@ -52,6 +52,14 @@
 :lesson24video: Lesson 24 https://drive.google.com/file/d/1QY_qZZodypihNf_fQW1j2APtT9BfEOw9/view?usp=sharing[1080]
 :lesson23-24video: Lesson 23-24 https://drive.google.com/open?id=1QHbNaQw51KlTJGMRu0xcCEb7pOAO1oOj&usp=drive_fs[1080]
 :lesson25video: Lesson 25 https://drive.google.com/open?id=1QxeY82IoG7lgMfBBacI0QwPL93p8NQFY&usp=drive_fs[1080]
+:lesson26video: Lesson 26 https://drive.google.com/file/d/1RKa7nKoTwOB1Hb5zT5MtbYKrVOJgNuUu/view?usp=sharing[1080]
+:lesson25-26video: Lesson 25-26 Review https://drive.google.com/open?id=1R9vt4RE69FuNuMZwq8YpF1COz8_wMa-M&usp=drive_fs[1080]
+:lesson27video: Lesson 27 https://drive.google.com/open?id=1R6mb02iGozvmUsBoOVTnQiWKX4cCBc0F&usp=drive_fs[1080]
+:lesson28video: Lesson 28 https://drive.google.com/open?id=1QM7VB_Tk2MOMzAXw1iK9jcpsj9r2gKSe&usp=drive_fs[1080]
+:lesson27-28video: Lesson 27-28 Review https://drive.google.com/open?id=1RDlND51n0iypCR4w8ltb1eL-h02dRI50&usp=drive_fs[1080]
+:lesson29video: Lesson 29 https://drive.google.com/open?id=1RKXSIHZEKKQTUR-x5HFpo9zqTNAFVwGm&usp=drive_fs[1080]
+:lesson30video: Lesson 30 https://drive.google.com/open?id=1QRdAlQJk2driAP15-qDraOPsKySp8XGS&usp=drive_fs[1080]
+:lesson29-30video: Lesson 29-30 Review https://drive.google.com/open?id=1QcnxsVYR7qLlx5T0cLlFUBu_3tS0icDR&usp=drive_fs[1080]
 
 
 :lesson1-3vocabulary: https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Review Vocabulary for chapters 1-3]
@@ -1367,9 +1375,17 @@ Review Chapters 18-21
 //tag::Assignment-103[]
 ===== Wednesday, January 22, 2025
 
+Watch {lesson26video}
+
+Study https://drive.google.com/file/d/1EdhFqYRf7azF9CVJbK21V5Ge-IPz9-Nx/view?usp=sharing[Lesson 26]
+
 //end::Assignment-103[]
 //tag::Assignment-104[]
 ===== Thursday, January 23, 2025
+
+Watch {lesson26video}
+
+Study https://drive.google.com/file/d/1EdhFqYRf7azF9CVJbK21V5Ge-IPz9-Nx/view?usp=sharing[Lesson 26]
 
 //end::Assignment-104[]
 //tag::Assignment-105[]
@@ -1377,7 +1393,8 @@ Review Chapters 18-21
 
 //end::Assignment-105[]
 //tag::Quiz-16[]
-Quiz 16
+
+Quiz over https://drive.google.com/file/d/1EdhFqYRf7azF9CVJbK21V5Ge-IPz9-Nx/view?usp=sharing[Lesson 26]
 
 //end::Quiz-16[]
 //end::Week-25[]
@@ -1392,6 +1409,12 @@ Review Chapters 22-24
 //tag::Assignment-106[]
 ===== Monday, January 27, 2025
 
+Review https://drive.google.com/file/d/1EerVXPclc1pphXS7kNBTX_2PlNFYs8AG/view?usp=sharing[Lesson 27]
+
+Watch {lesson27video}
+
+Watch {lesson25video}
+
 //end::Assignment-106[]
 //tag::Assignment-107[]
 ===== Tuesday, January 28, 2025
@@ -1400,9 +1423,17 @@ Review Chapters 22-24
 //tag::Assignment-108[]
 ===== Wednesday, January 29, 2025
 
+Watch {lesson27video}
+
+Watch {lesson26video}
+
 //end::Assignment-108[]
 //tag::Assignment-109[]
 ===== Thursday, January 30, 2025
+
+Watch {lesson27video}
+
+Watch {lesson25video}
 
 //end::Assignment-109[]
 //tag::Assignment-110[]
@@ -1415,6 +1446,10 @@ Test 5
 //end::Test-05[]
 //end::Week-26[]
 
+https://drive.google.com/file/d/1EecLvPA8eYa0dWOGDtsuyPl1V_n1GqS5/view?usp=sharing[Lesson 29]
+
+https://drive.google.com/file/d/1EeczTU9K8JbFad59O3MswmOSuw0gq2y8/view?usp=sharing[Lesson 30]
+
 === Module 6 -- Chapters 35-36
 ==== Week 27
 //tag::Week-27[]
@@ -1425,6 +1460,7 @@ Review Chapters 25-27
 //end::Weekly-Overview-27[]
 //tag::Assignment-111[]
 ===== Monday, February 3, 2025
+
 
 //end::Assignment-111[]
 //tag::Assignment-112[]
