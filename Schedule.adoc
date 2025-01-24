@@ -1409,11 +1409,13 @@ Review Chapters 22-24
 //tag::Assignment-106[]
 ===== Monday, January 27, 2025
 
+https://hebrew.billmounce.com/BasicsBiblicalHebrew-12.pdf[Extra info on verbs]
+
 Review https://drive.google.com/file/d/1EerVXPclc1pphXS7kNBTX_2PlNFYs8AG/view?usp=sharing[Lesson 27]
 
 Watch {lesson27video}
 
-Watch {lesson25video}
+Watch {lesson24video}
 
 //end::Assignment-106[]
 //tag::Assignment-107[]
@@ -1425,7 +1427,7 @@ Watch {lesson25video}
 
 Watch {lesson27video}
 
-Watch {lesson26video}
+Watch {lesson25video}
 
 //end::Assignment-108[]
 //tag::Assignment-109[]
@@ -1433,7 +1435,7 @@ Watch {lesson26video}
 
 Watch {lesson27video}
 
-Watch {lesson25video}
+Watch {lesson26video}
 
 //end::Assignment-109[]
 //tag::Assignment-110[]
