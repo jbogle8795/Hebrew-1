@@ -1446,7 +1446,8 @@ Watch {lesson26video}
 
 Test over 24-27 vocabulary including all verbs.
 
-Be prepared to recogize verbs with different endings.
+Be prepared to recogize verbs with different endings and nouns with pronominal suffixes. 
+
 
 //end::Test-05[]
 //end::Week-26[]
