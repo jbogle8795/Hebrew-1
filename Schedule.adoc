@@ -1498,9 +1498,19 @@ https://drive.google.com/file/d/1EerVXPclc1pphXS7kNBTX_2PlNFYs8AG/view?usp=shari
 //tag::Assignment-113[]
 ===== Wednesday, February 5, 2025
 
+Watch {lesson28video}
+
+Study https://drive.google.com/file/d/1Ef9LVRMr6uknTBocV6cyQeByXWtnPshx/view?usp=sharing[Lesson 28]
+
 //end::Assignment-113[]
 //tag::Assignment-114[]
 ===== Thursday, February 6, 2025
+
+
+Watch {lesson28video}
+
+Study https://drive.google.com/file/d/1Ef9LVRMr6uknTBocV6cyQeByXWtnPshx/view?usp=sharing[Lesson 28]
+
 
 //end::Assignment-114[]
 //tag::Assignment-115[]
@@ -1509,7 +1519,8 @@ https://drive.google.com/file/d/1EerVXPclc1pphXS7kNBTX_2PlNFYs8AG/view?usp=shari
 
 //end::Assignment-115[]
 //tag::Quiz-17[]
-Quiz 17
+
+No Quiz
 
 //end::Quiz-17[]
 //end::Week-27[]
