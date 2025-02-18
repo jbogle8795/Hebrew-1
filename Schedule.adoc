@@ -60,6 +60,7 @@
 :lesson29video: Lesson 29 https://drive.google.com/open?id=1RKXSIHZEKKQTUR-x5HFpo9zqTNAFVwGm&usp=drive_fs[1080]
 :lesson30video: Lesson 30 https://drive.google.com/open?id=1QRdAlQJk2driAP15-qDraOPsKySp8XGS&usp=drive_fs[1080]
 :lesson29-30video: Lesson 29-30 Review https://drive.google.com/open?id=1QcnxsVYR7qLlx5T0cLlFUBu_3tS0icDR&usp=drive_fs[1080]
+:lesson31video: Lesson 31 https://drive.google.com/open?id=1RCdZHktVsLYWSvWVDhOwJG7IODzDgOwN&usp=drive_fs[1080]
 
 
 :lesson1-3vocabulary: https://drive.google.com/file/d/1RWsfP1sF9S6lsDRup889oAOnXsYWkfZM/view?usp=share_link[Review Vocabulary for chapters 1-3]
@@ -1599,9 +1600,14 @@ Watch {lesson30video}
 //tag::Assignment-122[]
 ===== Tuesday, February 18, 2025
 
+
 //end::Assignment-122[]
 //tag::Assignment-123[]
 ===== Wednesday, February 19, 2025
+
+Study https://drive.google.com/open?id=187brtFDLptrZnEQkJwhEtFp3r8iXJy0I&usp=drive_fs[Lesson 31]
+
+Watch {lesson31video}
 
 //end::Assignment-123[]
 //tag::Assignment-124[]
