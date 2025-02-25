@@ -1646,9 +1646,26 @@ Chapel Schedule
 //tag::Assignment-128[]
 ===== Wednesday, February 26, 2025
 
+
+Study https://drive.google.com/file/d/1EeczTU9K8JbFad59O3MswmOSuw0gq2y8/view?usp=sharing[Lesson 30]
+
+Study https://drive.google.com/open?id=187brtFDLptrZnEQkJwhEtFp3r8iXJy0I&usp=drive_fs[Lesson 31]
+
+Watch {lesson30video}
+
+Watch {lesson31video}
+
 //end::Assignment-128[]
 //tag::Assignment-129[]
 ===== Thursday, February 27, 2025
+
+Study https://drive.google.com/file/d/1EeczTU9K8JbFad59O3MswmOSuw0gq2y8/view?usp=sharing[Lesson 30]
+
+Study https://drive.google.com/open?id=187brtFDLptrZnEQkJwhEtFp3r8iXJy0I&usp=drive_fs[Lesson 31]
+
+Watch {lesson30video}
+
+Watch {lesson31video}
 
 //end::Assignment-129[]
 //tag::Assignment-130[]
@@ -1669,6 +1686,24 @@ Quiz over 30 and 31.
 //end::Weekly-Overview-31[]
 //tag::Assignment-131[]
 ===== Monday, March 3, 2025
+
+
+Study https://drive.google.com/file/d/1Ef9LVRMr6uknTBocV6cyQeByXWtnPshx/view?usp=sharing[Lesson 28]
+
+Study https://drive.google.com/file/d/1EecLvPA8eYa0dWOGDtsuyPl1V_n1GqS5/view?usp=sharing[lesson 29]
+
+Study https://drive.google.com/file/d/1EeczTU9K8JbFad59O3MswmOSuw0gq2y8/view?usp=sharing[Lesson 30]
+
+Study https://drive.google.com/open?id=187brtFDLptrZnEQkJwhEtFp3r8iXJy0I&usp=drive_fs[Lesson 31]
+
+Watch {lesson28video}
+
+Watch {lesson29video}
+
+Watch {lesson30video}
+
+Watch {lesson31video}
+
 
 //end::Assignment-131[]
 //tag::Assignment-132[]
