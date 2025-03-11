@@ -1773,7 +1773,7 @@ Over 24-31
 ===== Monday, March 10, 2025
 
 Watch
-https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32]
+https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video]
 
 //end::Assignment-136[]
 //tag::Assignment-137[]
@@ -1783,9 +1783,20 @@ https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[
 //tag::Assignment-138[]
 ===== Wednesday, March 12, 2025
 
+Study https://drive.google.com/file/d/17cj8TNPVtMWQdXD4CXj-tylpanTyC5TN/view?usp=sharing[Lesson 32 Vocabulary and Script]
+
+Watch
+https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video]
+
 //end::Assignment-138[]
 //tag::Assignment-139[]
 ===== Thursday, March 13, 2025
+
+Study https://drive.google.com/file/d/17cj8TNPVtMWQdXD4CXj-tylpanTyC5TN/view?usp=sharing[Lesson 32 Vocabulary and Script]
+
+Watch
+https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video]
+
 
 //end::Assignment-139[]
 //tag::Assignment-140[]
@@ -1793,7 +1804,8 @@ https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[
 
 //end::Assignment-140[]
 //tag::Quiz-21[]
-Quiz 21
+
+Quiz over Lesson 32
 
 //end::Quiz-21[]
 //end::Week-32[]
@@ -1808,6 +1820,8 @@ Quiz 21
 
 //tag::Assignment-141[]
 ===== Monday, March 17, 2025
+
+https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33]
 
 //end::Assignment-141[]
 //tag::Assignment-142[]
@@ -1844,6 +1858,8 @@ Quiz 22
 //tag::Assignment-146[]
 ===== Monday, March 24, 2025
 
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson34]
+
 //end::Assignment-146[]
 //tag::Assignment-147[]
 ===== Tuesday, March 25, 2025
@@ -1879,6 +1895,7 @@ Quiz 23
 
 //tag::Assignment-151[]
 ===== Monday, March 31, 2025
+
 
 //end::Assignment-151[]
 //tag::Assignment-152[]
@@ -1924,6 +1941,9 @@ Sping Break
 //tag::Assignment-156[]
 ===== Monday, April 14, 2025
 
+https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=sharing[Lesson 35]
+
+
 //end::Assignment-156[]
 //tag::Assignment-157[]
 ===== Tuesday, April 15, 2025
@@ -1961,6 +1981,9 @@ Quiz 24
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36]
+
+
 //end::Assignment-161[]
 //tag::Assignment-162[]
 ===== Tuesday, April 22, 2025
@@ -1993,6 +2016,8 @@ Quiz 25
 
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
+
+https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37]
 
 //end::Assignment-166[]
 //tag::Assignment-167[]
