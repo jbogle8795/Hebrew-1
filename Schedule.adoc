@@ -1786,7 +1786,8 @@ https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[
 Study https://drive.google.com/file/d/17cj8TNPVtMWQdXD4CXj-tylpanTyC5TN/view?usp=sharing[Lesson 32 Vocabulary and Script]
 
 Watch
-https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video]
+https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video] and https://drive.google.com/file/d/1QoVGYIi94ToP3BMpHoudyl_m7L4aXciq/view?usp=sharing[Lesson 31-32 Review]
+
 
 //end::Assignment-138[]
 //tag::Assignment-139[]
@@ -1821,7 +1822,11 @@ Quiz over Lesson 32
 //tag::Assignment-141[]
 ===== Monday, March 17, 2025
 
-https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33]
+https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33 Vocabulary and Script]
+
+https://drive.google.com/file/d/1QwKNnaZ5Gsjr0OY85dLyuS-342bTl7pg/view?usp=sharing[Lesson 33 Video]
+
+
 
 //end::Assignment-141[]
 //tag::Assignment-142[]
@@ -1833,9 +1838,21 @@ https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=shari
 //tag::Assignment-143[]
 ===== Wednesday, March 19, 2025
 
+https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33 Vocabulary and Script]
+
+https://drive.google.com/file/d/1QwKNnaZ5Gsjr0OY85dLyuS-342bTl7pg/view?usp=sharing[Lesson 33 Video]
+
 //end::Assignment-143[]
 //tag::Assignment-144[]
 ===== Thursday, March 20, 2025
+
+https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33 Vocabulary and Script]
+
+https://drive.google.com/file/d/1QwKNnaZ5Gsjr0OY85dLyuS-342bTl7pg/view?usp=sharing[Lesson 33 Video]
+
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson 34 Vocabulary and Script]
+
+https://drive.google.com/open?id=1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0&usp=drive_fs[Lesson 34 Video]
 
 //end::Assignment-144[]
 //tag::Assignment-145[]
@@ -1843,7 +1860,8 @@ https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=shari
 
 //end::Assignment-145[]
 //tag::Quiz-22[]
-Quiz 22
+
+Quiz over Lesson 33
 
 //end::Quiz-22[]
 //end::Week-33[]
@@ -1858,7 +1876,12 @@ Quiz 22
 //tag::Assignment-146[]
 ===== Monday, March 24, 2025
 
-https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson34]
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson 34 Vocabulary and Script]
+
+https://drive.google.com/open?id=1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0&usp=drive_fs[Lesson 34 Video]
+
+https://drive.google.com/open?id=1QQUkG43p40nDf2XyJytR2L1R97H1jjgJ&usp=drive_fs[Lessons 33-34 Review Video]
+
 
 //end::Assignment-146[]
 //tag::Assignment-147[]
@@ -1868,9 +1891,21 @@ https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=shari
 //tag::Assignment-148[]
 ===== Wednesday, March 26, 2025
 
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson 34 Vocabulary and Script]
+
+https://drive.google.com/open?id=1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0&usp=drive_fs[Lesson 34 Video]
+
+https://drive.google.com/open?id=1QQUkG43p40nDf2XyJytR2L1R97H1jjgJ&usp=drive_fs[Lessons 33-34 Review Video]
+
 //end::Assignment-148[]
 //tag::Assignment-149[]
 ===== Thursday, March 27, 2025
+
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson 34 Vocabulary and Script]
+
+https://drive.google.com/open?id=1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0&usp=drive_fs[Lesson 34 Video]
+
+https://drive.google.com/open?id=1QQUkG43p40nDf2XyJytR2L1R97H1jjgJ&usp=drive_fs[Lessons 33-34 Review Video]
 
 //end::Assignment-149[]
 //tag::Assignment-150[]
@@ -1878,7 +1913,7 @@ https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=shari
 
 //end::Assignment-150[]
 //tag::Quiz-23[]
-Quiz 23
+Quiz Over Lesson 34
 
 //end::Quiz-23[]
 //end::Week-34[]
@@ -1897,6 +1932,17 @@ Quiz 23
 ===== Monday, March 31, 2025
 
 
+Study https://drive.google.com/file/d/17cj8TNPVtMWQdXD4CXj-tylpanTyC5TN/view?usp=sharing[Lesson 32 Vocabulary and Script]
+
+Watch
+https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video]
+
+https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33 Vocabulary and Script]
+
+https://drive.google.com/file/d/1QwKNnaZ5Gsjr0OY85dLyuS-342bTl7pg/view?usp=sharing[Lesson 33 Video]
+
+
+
 //end::Assignment-151[]
 //tag::Assignment-152[]
 ===== Tuesday, April 1, 2025
@@ -1905,9 +1951,30 @@ Quiz 23
 //tag::Assignment-153[]
 ===== Wednesday, April 2, 2025
 
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson 34 Vocabulary and Script]
+
+https://drive.google.com/open?id=1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0&usp=drive_fs[Lesson 34 Video]
+
+https://drive.google.com/open?id=1QQUkG43p40nDf2XyJytR2L1R97H1jjgJ&usp=drive_fs[Lessons 33-34 Review Video]
+
 //end::Assignment-153[]
 //tag::Assignment-154[]
 ===== Thursday, April 3, 2025
+
+Study https://drive.google.com/file/d/17cj8TNPVtMWQdXD4CXj-tylpanTyC5TN/view?usp=sharing[Lesson 32 Vocabulary and Script]
+
+Watch
+https://drive.google.com/open?id=1QAUG43hqHeeDgcDuFTNgAOiMjyfGMg5k&usp=drive_fs[Lesson 32 Video]
+
+https://drive.google.com/file/d/1Hv6DALufcQdaqoEi6aYb1A-EX_KasbPC/view?usp=sharing[Lesson 33 Vocabulary and Script]
+
+https://drive.google.com/file/d/1QwKNnaZ5Gsjr0OY85dLyuS-342bTl7pg/view?usp=sharing[Lesson 33 Video]
+
+https://drive.google.com/file/d/1PqJZIhdA33OGMx_5uLKSvGnC7_b-hfIE/view?usp=sharing[Lesson 34 Vocabulary and Script]
+
+https://drive.google.com/open?id=1RLZJc4VXLTXT8sMtvDrKRIaHxAFRXGF0&usp=drive_fs[Lesson 34 Video]
+
+https://drive.google.com/open?id=1QQUkG43p40nDf2XyJytR2L1R97H1jjgJ&usp=drive_fs[Lessons 33-34 Review Video]
 
 //end::Assignment-154[]
 //tag::Assignment-155[]
@@ -1915,7 +1982,7 @@ Quiz 23
 
 //end::Assignment-155[]
 //tag::Test-07[]
-Test 7
+Test over 32-34
 
 //end::Test-07[]
 //end::Week-35[]
@@ -1941,8 +2008,11 @@ Sping Break
 //tag::Assignment-156[]
 ===== Monday, April 14, 2025
 
-https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=sharing[Lesson 35]
+https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=sharing[Lesson 35 Vocabulary and Script]
 
+https://drive.google.com/open?id=1QRqsaa1xKzEgO3wDCHqzh4VJZilgYNIA&usp=drive_fs[Lesson 35 Video]
+
+https://drive.google.com/open?id=1RShIPWzewoo67_y7_SE4W0d7ruvDC9gB&usp=drive_fs[Lesson 35b Video]
 
 //end::Assignment-156[]
 //tag::Assignment-157[]
@@ -1954,9 +2024,21 @@ https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=shari
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
 
+https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=sharing[Lesson 35 Vocabulary and Script]
+
+https://drive.google.com/open?id=1QRqsaa1xKzEgO3wDCHqzh4VJZilgYNIA&usp=drive_fs[Lesson 35 Video]
+
+https://drive.google.com/open?id=1RShIPWzewoo67_y7_SE4W0d7ruvDC9gB&usp=drive_fs[Lesson 35b Video]
+
 //end::Assignment-158[]
 //tag::Assignment-159[]
 ===== Thursday, April 17, 2025
+
+https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=sharing[Lesson 35 Vocabulary and Script]
+
+https://drive.google.com/open?id=1QRqsaa1xKzEgO3wDCHqzh4VJZilgYNIA&usp=drive_fs[Lesson 35 Video]
+
+https://drive.google.com/open?id=1RShIPWzewoo67_y7_SE4W0d7ruvDC9gB&usp=drive_fs[Lesson 35b Video]
 
 //end::Assignment-159[]
 //tag::Assignment-160[]
@@ -1966,7 +2048,8 @@ https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=shari
 
 //end::Assignment-160[]
 //tag::Quiz-24[]
-Quiz 24
+
+No Quiz
 
 //end::Quiz-24[]
 //end::Week-37[]
@@ -1981,8 +2064,12 @@ Quiz 24
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
-https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36]
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36 Vocabulary and Script]
 
+
+https://drive.google.com/open?id=1R4PEkfpvuzzygamqWx39ZgYKBd56VR5E&usp=drive_fs[Lesson 36 Video]
+
+https://drive.google.com/open?id=1RO3N1GLVKjaobR0Q1p7ekNb41XwRjQol&usp=drive_fs[Lesson 35-36 Video]
 
 //end::Assignment-161[]
 //tag::Assignment-162[]
@@ -1992,9 +2079,23 @@ https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=shari
 //tag::Assignment-163[]
 ===== Wednesday, April 23, 2025
 
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36 Vocabulary and Script]
+
+
+https://drive.google.com/open?id=1R4PEkfpvuzzygamqWx39ZgYKBd56VR5E&usp=drive_fs[Lesson 36 Video]
+
+https://drive.google.com/open?id=1RO3N1GLVKjaobR0Q1p7ekNb41XwRjQol&usp=drive_fs[Lesson 35-36 Video]
+
 //end::Assignment-163[]
 //tag::Assignment-164[]
 ===== Thursday, April 24, 2025
+
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36 Vocabulary and Script]
+
+
+https://drive.google.com/open?id=1R4PEkfpvuzzygamqWx39ZgYKBd56VR5E&usp=drive_fs[Lesson 36 Video]
+
+https://drive.google.com/open?id=1RO3N1GLVKjaobR0Q1p7ekNb41XwRjQol&usp=drive_fs[Lesson 35-36 Video]
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
@@ -2002,7 +2103,8 @@ https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=shari
 
 //end::Assignment-165[]
 //tag::Quiz-25[]
-Quiz 25
+
+Quiz over Lessons 35 and 36
 
 //end::Quiz-25[]
 //end::Week-38[]
@@ -2017,7 +2119,11 @@ Quiz 25
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
 
-https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37]
+https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37 Vocabulary and Script]
+
+
+https://drive.google.com/open?id=1QWJzfdUxdARpXfs92ewRO0xXXdbx3Ff8&usp=drive_fs[Lesson 37 Video]
+
 
 //end::Assignment-166[]
 //tag::Assignment-167[]
@@ -2029,9 +2135,21 @@ https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=shari
 //tag::Assignment-168[]
 ===== Wednesday, April 30, 2025
 
+https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37 Vocabulary and Script]
+
+
+https://drive.google.com/open?id=1QWJzfdUxdARpXfs92ewRO0xXXdbx3Ff8&usp=drive_fs[Lesson 37 Video]
+
+
 //end::Assignment-168[]
 //tag::Assignment-169[]
 ===== Thursday, May 1, 2025
+
+https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37 Vocabulary and Script]
+
+
+https://drive.google.com/open?id=1QWJzfdUxdARpXfs92ewRO0xXXdbx3Ff8&usp=drive_fs[Lesson 37 Video]
+
 
 //end::Assignment-169[]
 //tag::Assignment-170[]
@@ -2039,7 +2157,8 @@ https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=shari
 
 //end::Assignment-170[]
 //tag::Quiz-26[]
-Quiz 26
+
+Quiz over Lesson 37
 
 //end::Quiz-26[]
 //end::Week-39[]
@@ -2055,6 +2174,18 @@ Quiz 26
 //tag::Assignment-171[]
 ===== Monday, May 5, 2025
 
+
+https://drive.google.com/open?id=1QRqsaa1xKzEgO3wDCHqzh4VJZilgYNIA&usp=drive_fs[Lesson 35 Video]
+
+https://drive.google.com/open?id=1RShIPWzewoo67_y7_SE4W0d7ruvDC9gB&usp=drive_fs[Lesson 35b Video]
+
+https://drive.google.com/file/d/1bcA20YFq6ocrSAn5iwtR-U6e59doUtRB/view?usp=sharing[Lesson 35 Vocabulary and Script]
+
+https://drive.google.com/open?id=1R4PEkfpvuzzygamqWx39ZgYKBd56VR5E&usp=drive_fs[Lesson 36 Video]
+
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36 Vocabulary and Script]
+
+
 //end::Assignment-171[]
 //tag::Assignment-172[]
 ===== Tuesday, May 6, 2025
@@ -2064,9 +2195,37 @@ Quiz 26
 //tag::Assignment-173[]
 ===== Wednesday, May 7, 2025
 
+
+https://drive.google.com/open?id=1RO3N1GLVKjaobR0Q1p7ekNb41XwRjQol&usp=drive_fs[Lesson 35-36 Video]
+
+
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36 Vocabulary and Script]
+
+
+https://drive.google.com/open?id=1QWJzfdUxdARpXfs92ewRO0xXXdbx3Ff8&usp=drive_fs[Lesson 37 Video]
+
+https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37 Vocabulary and Script]
+
 //end::Assignment-173[]
 //tag::Assignment-174[]
 ===== Thursday, May 8, 2025
+
+
+
+https://drive.google.com/open?id=1QRqsaa1xKzEgO3wDCHqzh4VJZilgYNIA&usp=drive_fs[Lesson 35 Video]
+
+https://drive.google.com/open?id=1RShIPWzewoo67_y7_SE4W0d7ruvDC9gB&usp=drive_fs[Lesson 35b Video]
+
+https://drive.google.com/open?id=1R4PEkfpvuzzygamqWx39ZgYKBd56VR5E&usp=drive_fs[Lesson 36 Video]
+
+https://drive.google.com/open?id=1RO3N1GLVKjaobR0Q1p7ekNb41XwRjQol&usp=drive_fs[Lesson 35-36 Video]
+
+
+https://drive.google.com/file/d/1PmguWqwzRdN7ZT6YUOQBezYkmDGJk81p/view?usp=sharing[Lesson 36 Vocabulary and Script]
+
+https://drive.google.com/open?id=1QWJzfdUxdARpXfs92ewRO0xXXdbx3Ff8&usp=drive_fs[Lesson 37 Video]
+
+https://drive.google.com/file/d/1pB_YIbso46aZpjQbToKMzsvrN9TuoCfB/view?usp=sharing[Lesson 37 Vocabulary and Script]
 
 //end::Assignment-174[]
 //tag::Assignment-175[]
@@ -2074,6 +2233,26 @@ Quiz 26
 *1/2 day of testing*
 
 //end::Assignment-175[]
+
+
+//tag::Test-08[]
+
+Final Test over 35-37
+
+//end::Test-08[]
+
+
+
+
+
+
+
+
+
+
+
+
+
 //tag::Quiz-27[]
 Quiz 27
 
@@ -2100,10 +2279,18 @@ Quiz 27
 //end::Assignment-177[]
 
 
-//tag::Test-08[]
-Test 8
 
-//end::Test-08[]
+
+
+
+
+
+
+
+
+
+
+
 
 
 //tag::Assignment-178[]
